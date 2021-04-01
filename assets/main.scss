@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+
+.site-header {
+  border-top: 1px solid $grey-color-dark;
+}
+
+blockquote {
+  i, em {
+    font-style: normal;
+  }
+}
+
+figure  {
+  border: 0.5px solid $grey-color-dark;
+  margin: 0.5em;
+  padding: 0.5em;
+  float: right;
+}

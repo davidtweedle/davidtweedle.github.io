@@ -33,7 +33,6 @@ header_pages:
   - research.md
   - teaching.md
   - blog.md
-  - links.md
 
 include:
   - assets

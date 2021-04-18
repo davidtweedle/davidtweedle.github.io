@@ -3,9 +3,9 @@ title: Research
 layout: page 
 permalink: /research/
 ---
--[link](#work-roles)
--[link](#research)
--[link](#publications)
+- [Work roles](#work-roles)
+- [Research](#research)
+- [Publications](#publications)
 
 ### Work roles
 - randomization script

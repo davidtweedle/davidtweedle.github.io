@@ -127,53 +127,74 @@
 .wrapper:after	_site/assets/main.css	/^.wrapper:after, .footer-col-wrapper:after { content: ""; display: table; clear: both; }$/;"	c
 Assignment 1 CUTL	_site/Blog/index.html	/^  <h3 id="assignment-1-cutl">Assignment 1 CUTL<\/h3>$/;"	j
 Assignment 1 CUTL	_site/cutl/2021/03/20/reflective-journal-entry-1.html	/^  <h3 id="assignment-1-cutl">Assignment 1 CUTL<\/h3>$/;"	j
-Autobiography	_site/index.html	/^<h2 id="autobiography">Autobiography<\/h2>$/;"	i
+Autobiography describing my path to teaching	_site/teaching/index.html	/^<h3 id="autobiography-describing-my-path-to-teaching">Autobiography describing my path to teachi/;"	j
 Autobiography describing my path to teaching	teaching.md	/^### Autobiography describing my path to teaching$/;"	S
-Blog	_site/Blog/index.html	/^    <h1 class="post-title">Blog<\/h1>$/;"	h
 Blog posts	_site/Blog/index.html	/^  <\/div><h2 class="post-list-heading">Blog posts<\/h2>$/;"	i
+Brief narrative	_site/index.html	/^<h2 id="brief-narrative">Brief narrative<\/h2>$/;"	i
 Brief narrative	index.md	/^## Brief narrative$/;"	s
 Courses I have taught	_site/teaching/index.html	/^<h3 id="courses-i-have-taught">Courses I have taught<\/h3>$/;"	j
 Courses I have taught	teaching.md	/^### Courses I have taught$/;"	S
 Critical and structured analysis of the PO process	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Critical and structured analysis of the PO process$/;"	S
+Critical and structured analysis of the PO process	_site/Blog/index.html	/^    <h3 id="critical-and-structured-analysis-of-the-po-process">Critical and structured analysis/;"	j
+Critical and structured analysis of the PO process	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h3 id="critical-and-structured-analysis-of-the-po-process">Critical and structured analysis/;"	j
 David Tweedle&#39;s website	_site/Blog/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
-David Tweedle&#39;s website	_site/cutl/2021/03/15/f-professional-development.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
-David Tweedle&#39;s website	_site/cutl/2021/03/15/g-products-of-student-learning.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
-David Tweedle&#39;s website	_site/cutl/2021/03/15/h-student-evaluations.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/cutl/2021/03/15/i-peer-evaluation.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/cutl/2021/03/20/reflective-journal-entry-1.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
+David Tweedle&#39;s website	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
+David Tweedle&#39;s website	_site/cutl/2021/04/17/journal-entry-3.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
+David Tweedle&#39;s website	_site/cutl/2021/04/17/journal-entry-4.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
+David Tweedle&#39;s website	_site/cutl/2021/04/17/student-evaluations-and-feedback.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/links/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/research/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/teaching/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 Facts	_site/index.html	/^<h2 id="facts">Facts<\/h2>$/;"	i
 Facts	index.md	/^## Facts ##$/;"	s
+Fourth journal entry	_site/Blog/index.html	/^        <\/h3>$/;"	j
+Fourth journal entry	_site/cutl/2021/04/17/journal-entry-4.html	/^    <h1 class="post-title p-name" itemprop="name headline">Fourth journal entry<\/h1>$/;"	h
 Fresh perspective on insight presented	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Fresh perspective on insight presented$/;"	S
+Fresh perspective on insight presented	_site/Blog/index.html	/^    <h3 id="fresh-perspective-on-insight-presented">Fresh perspective on insight presented<\/h3>$/;"	j
+Fresh perspective on insight presented	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h3 id="fresh-perspective-on-insight-presented">Fresh perspective on insight presented<\/h3>$/;"	j
 Guidance and support to colleagues	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Guidance and support to colleagues$/;"	S
+Guidance and support to colleagues	_site/Blog/index.html	/^    <h3 id="guidance-and-support-to-colleagues">Guidance and support to colleagues<\/h3>$/;"	j
+Guidance and support to colleagues	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h3 id="guidance-and-support-to-colleagues">Guidance and support to colleagues<\/h3>$/;"	j
 Home	_site/index.html	/^    <h1 class="post-title">Home<\/h1>$/;"	h
 Introduction	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Introduction$/;"	S
+Introduction	_site/Blog/index.html	/^        <h3 id="introduction">Introduction<\/h3>$/;"	j
+Introduction	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h3 id="introduction">Introduction<\/h3>$/;"	j
 Journal entry 1	_site/Blog/index.html	/^        <\/h3>$/;"	j
 Journal entry 1	_site/cutl/2021/03/20/reflective-journal-entry-1.html	/^    <h1 class="post-title p-name" itemprop="name headline">Journal entry 1<\/h1>$/;"	h
+Journal entry 3	_site/Blog/index.html	/^        <\/h3>$/;"	j
+Journal entry 3	_site/cutl/2021/04/17/journal-entry-3.html	/^    <h1 class="post-title p-name" itemprop="name headline">Journal entry 3<\/h1>$/;"	h
 Links	_site/links/index.html	/^    <h1 class="post-title">Links<\/h1>$/;"	h
 Means of improvement	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Means of improvement$/;"	S
+Means of improvement	_site/Blog/index.html	/^    <h3 id="means-of-improvement">Means of improvement<\/h3>$/;"	j
+Means of improvement	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h3 id="means-of-improvement">Means of improvement<\/h3>$/;"	j
 Peer evaluations	_site/Blog/index.html	/^        <\/h3>$/;"	j
 Peer evaluations	_site/cutl/2021/03/15/i-peer-evaluation.html	/^    <h1 class="post-title p-name" itemprop="name headline">Peer evaluations<\/h1>$/;"	h
 Pre-recorded sessions versus live visits	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Pre-recorded sessions versus live visits$/;"	S
-Products of student learning	_site/Blog/index.html	/^        <\/h3>$/;"	j
-Products of student learning	_site/cutl/2021/03/15/g-products-of-student-learning.html	/^    <h1 class="post-title p-name" itemprop="name headline">Products of student learning<\/h1>$/;"	h
-Professional development	_site/Blog/index.html	/^        <\/h3>$/;"	j
-Professional development	_site/cutl/2021/03/15/f-professional-development.html	/^    <h1 class="post-title p-name" itemprop="name headline">Professional development<\/h1>$/;"	h
+Pre-recorded sessions versus live visits	_site/Blog/index.html	/^    <h3 id="pre-recorded-sessions-versus-live-visits">Pre-recorded sessions versus live visits<\//;"	j
+Pre-recorded sessions versus live visits	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h3 id="pre-recorded-sessions-versus-live-visits">Pre-recorded sessions versus live visits<\//;"	j
+Professional development	_site/teaching/index.html	/^<h3 id="professional-development">Professional development<\/h3>$/;"	j
 Professional development	teaching.md	/^### Professional development$/;"	S
-Publications	_site/research/index.html	/^<h2 id="publications">Publications<\/h2>$/;"	i
+Publications	_site/research/index.html	/^<h3 id="publications">Publications<\/h3>$/;"	j
 Publications	research.md	/^### Publications$/;"	S
 Reflection	_posts/2021-03-20-reflective-journal-entry-1.md	/^### Reflection ###$/;"	S
 Reflection	_site/Blog/index.html	/^<h3 id="reflection">Reflection<\/h3>$/;"	j
 Reflection	_site/cutl/2021/03/20/reflective-journal-entry-1.html	/^<h3 id="reflection">Reflection<\/h3>$/;"	j
+Reflection on peer observation	_site/Blog/index.html	/^        <\/h3>$/;"	j
+Reflection on peer observation	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h1 class="post-title p-name" itemprop="name headline">Reflection on peer observation<\/h1>$/;"	h
+Reflections	_site/Blog/index.html	/^    <h1 class="post-title">Reflections<\/h1>$/;"	h
 Research	_site/research/index.html	/^    <h1 class="post-title">Research<\/h1>$/;"	h
+Research	_site/research/index.html	/^<h3 id="research">Research<\/h3>$/;"	j
 Research	research.md	/^### Research$/;"	S
-Student evaluations	_site/Blog/index.html	/^        <\/h3>$/;"	j
-Student evaluations	_site/cutl/2021/03/15/h-student-evaluations.html	/^    <h1 class="post-title p-name" itemprop="name headline">Student evaluations<\/h1>$/;"	h
+Student evaluations and feedback	_site/Blog/index.html	/^        <\/h3>$/;"	j
+Student evaluations and feedback	_site/cutl/2021/04/17/student-evaluations-and-feedback.html	/^    <h1 class="post-title p-name" itemprop="name headline">Student evaluations and feedback<\/h1/;"	h
+Student learning	_site/teaching/index.html	/^<h3 id="student-learning">Student learning<\/h3>$/;"	j
 Student learning	teaching.md	/^### Student learning$/;"	S
 Sustaining a professional community of learners	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Sustaining a professional community of learners$/;"	S
+Sustaining a professional community of learners	_site/Blog/index.html	/^    <h3 id="sustaining-a-professional-community-of-learners">Sustaining a professional community/;"	j
+Sustaining a professional community of learners	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h3 id="sustaining-a-professional-community-of-learners">Sustaining a professional community/;"	j
 Teaching	_site/teaching/index.html	/^    <h1 class="post-title">Teaching<\/h1>$/;"	h
 Teaching Philosophy	_site/teaching/index.html	/^<h3 id="teaching-philosophy">Teaching Philosophy<\/h3>$/;"	j
 Teaching Philosophy	teaching.md	/^### Teaching Philosophy ###$/;"	S
@@ -186,8 +207,10 @@ The good	_posts/2021-03-20-reflective-journal-entry-1.md	/^### The good ###$/;"	
 The good	_site/Blog/index.html	/^<h3 id="the-good">The good<\/h3>$/;"	j
 The good	_site/cutl/2021/03/20/reflective-journal-entry-1.html	/^<h3 id="the-good">The good<\/h3>$/;"	j
 Well treated account of impact of the entire process	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Well treated account of impact of the entire process$/;"	S
+Well treated account of impact of the entire process	_site/Blog/index.html	/^    <h3 id="well-treated-account-of-impact-of-the-entire-process">Well treated account of impact/;"	j
+Well treated account of impact of the entire process	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h3 id="well-treated-account-of-impact-of-the-entire-process">Well treated account of impact/;"	j
+Work roles	_site/research/index.html	/^<h3 id="work-roles">Work roles<\/h3>$/;"	j
 Work roles	research.md	/^### Work roles$/;"	S
-Work roles and responsibilities	_site/teaching/index.html	/^<h3 id="work-roles-and-responsibilities">Work roles and responsibilities<\/h3>$/;"	j
 a	_site/assets/main.css	/^a { color: #2a7ae2; text-decoration: none; }$/;"	s
 a:hover	_site/assets/main.css	/^a:hover { color: #111; text-decoration: underline; }$/;"	s
 a:visited	_site/assets/main.css	/^a:visited { color: #1756a9; }$/;"	s
@@ -203,6 +226,7 @@ category: CUTL	_posts/2021-03-15-i-peer-evaluation.md	/^category: CUTL$/;"	s
 category: CUTL	_posts/2021-03-20-reflective-journal-entry-1.md	/^category: CUTL$/;"	s
 category: CUTL	_posts/2021-04-06-reflective-journal-entry-2.md	/^category: CUTL$/;"	s
 category: CUTL	_posts/2021-04-17-journal-entry-3.md	/^category: CUTL$/;"	s
+category: CUTL	_posts/2021-04-17-journal-entry-4.md	/^category: CUTL$/;"	s
 category: CUTL	_posts/2021-04-17-student-evaluations-and-feedback.md	/^category: CUTL$/;"	s
 code	_site/assets/main.css	/^code { padding: 1px 5px; }$/;"	s
 code	_site/assets/main.css	/^pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #e/;"	s

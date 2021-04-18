@@ -3,12 +3,11 @@ title: Teaching
 layout: page
 permalink: /teaching/
 ---
--[link](#autobiography-describing-my-path-to-teaching)
--[link](#teaching-philosophy)
--[link](#professional-development)
--[link](#student-learning)
--[link](#courses-taught)
--[link](#the-following-courses-i-have-only-taught-once-or-twice)
+- [Autobiography](#autobiography-describing-my-path-to-teaching)
+- [Teaching philosophy](#teaching-philosophy)
+- [Professional developmentD](#professional-development)
+- [Student learning](#student-learning)
+- [Courses](#courses-taught)
 
 ### Autobiography describing my path to teaching
 

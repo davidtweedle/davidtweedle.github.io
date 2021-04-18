@@ -1,5 +1,5 @@
 ---
-title: Student evaluations
+title: Student evaluations and feedback
 layout: post
 category: CUTL
 ---

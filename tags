@@ -128,9 +128,10 @@
 Assignment 1 CUTL	_site/Blog/index.html	/^  <h3 id="assignment-1-cutl">Assignment 1 CUTL<\/h3>$/;"	j
 Assignment 1 CUTL	_site/cutl/2021/03/20/reflective-journal-entry-1.html	/^  <h3 id="assignment-1-cutl">Assignment 1 CUTL<\/h3>$/;"	j
 Autobiography	_site/index.html	/^<h2 id="autobiography">Autobiography<\/h2>$/;"	i
-Autobiography	index.md	/^## Autobiography ##$/;"	s
+Autobiography describing my path to teaching	teaching.md	/^### Autobiography describing my path to teaching$/;"	S
 Blog	_site/Blog/index.html	/^    <h1 class="post-title">Blog<\/h1>$/;"	h
 Blog posts	_site/Blog/index.html	/^  <\/div><h2 class="post-list-heading">Blog posts<\/h2>$/;"	i
+Brief narrative	index.md	/^## Brief narrative$/;"	s
 Courses I have taught	_site/teaching/index.html	/^<h3 id="courses-i-have-taught">Courses I have taught<\/h3>$/;"	j
 Courses I have taught	teaching.md	/^### Courses I have taught$/;"	S
 Critical and structured analysis of the PO process	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Critical and structured analysis of the PO process$/;"	S
@@ -161,14 +162,17 @@ Products of student learning	_site/Blog/index.html	/^        <\/h3>$/;"	j
 Products of student learning	_site/cutl/2021/03/15/g-products-of-student-learning.html	/^    <h1 class="post-title p-name" itemprop="name headline">Products of student learning<\/h1>$/;"	h
 Professional development	_site/Blog/index.html	/^        <\/h3>$/;"	j
 Professional development	_site/cutl/2021/03/15/f-professional-development.html	/^    <h1 class="post-title p-name" itemprop="name headline">Professional development<\/h1>$/;"	h
+Professional development	teaching.md	/^### Professional development$/;"	S
 Publications	_site/research/index.html	/^<h2 id="publications">Publications<\/h2>$/;"	i
-Publications	research.md	/^## Publications ##$/;"	s
+Publications	research.md	/^### Publications$/;"	S
 Reflection	_posts/2021-03-20-reflective-journal-entry-1.md	/^### Reflection ###$/;"	S
 Reflection	_site/Blog/index.html	/^<h3 id="reflection">Reflection<\/h3>$/;"	j
 Reflection	_site/cutl/2021/03/20/reflective-journal-entry-1.html	/^<h3 id="reflection">Reflection<\/h3>$/;"	j
 Research	_site/research/index.html	/^    <h1 class="post-title">Research<\/h1>$/;"	h
+Research	research.md	/^### Research$/;"	S
 Student evaluations	_site/Blog/index.html	/^        <\/h3>$/;"	j
 Student evaluations	_site/cutl/2021/03/15/h-student-evaluations.html	/^    <h1 class="post-title p-name" itemprop="name headline">Student evaluations<\/h1>$/;"	h
+Student learning	teaching.md	/^### Student learning$/;"	S
 Sustaining a professional community of learners	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Sustaining a professional community of learners$/;"	S
 Teaching	_site/teaching/index.html	/^    <h1 class="post-title">Teaching<\/h1>$/;"	h
 Teaching Philosophy	_site/teaching/index.html	/^<h3 id="teaching-philosophy">Teaching Philosophy<\/h3>$/;"	j
@@ -182,8 +186,8 @@ The good	_posts/2021-03-20-reflective-journal-entry-1.md	/^### The good ###$/;"	
 The good	_site/Blog/index.html	/^<h3 id="the-good">The good<\/h3>$/;"	j
 The good	_site/cutl/2021/03/20/reflective-journal-entry-1.html	/^<h3 id="the-good">The good<\/h3>$/;"	j
 Well treated account of impact of the entire process	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Well treated account of impact of the entire process$/;"	S
+Work roles	research.md	/^### Work roles$/;"	S
 Work roles and responsibilities	_site/teaching/index.html	/^<h3 id="work-roles-and-responsibilities">Work roles and responsibilities<\/h3>$/;"	j
-Work roles and responsibilities	teaching.md	/^### Work roles and responsibilities ###$/;"	S
 a	_site/assets/main.css	/^a { color: #2a7ae2; text-decoration: none; }$/;"	s
 a:hover	_site/assets/main.css	/^a:hover { color: #111; text-decoration: underline; }$/;"	s
 a:visited	_site/assets/main.css	/^a:visited { color: #1756a9; }$/;"	s
@@ -195,10 +199,11 @@ blockquote em	_site/assets/main.css	/^blockquote i, blockquote em { font-style: 
 blockquote i	_site/assets/main.css	/^blockquote i, blockquote em { font-style: normal; }$/;"	s
 body	_site/assets/main.css	/^body { font: 400 16px\/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Ari/;"	s
 body	_site/assets/main.css	/^body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; paddin/;"	s
-category: CUTL	_posts/2021-03-15-h-student-evaluations.md	/^category: CUTL$/;"	s
 category: CUTL	_posts/2021-03-15-i-peer-evaluation.md	/^category: CUTL$/;"	s
 category: CUTL	_posts/2021-03-20-reflective-journal-entry-1.md	/^category: CUTL$/;"	s
 category: CUTL	_posts/2021-04-06-reflective-journal-entry-2.md	/^category: CUTL$/;"	s
+category: CUTL	_posts/2021-04-17-journal-entry-3.md	/^category: CUTL$/;"	s
+category: CUTL	_posts/2021-04-17-student-evaluations-and-feedback.md	/^category: CUTL$/;"	s
 code	_site/assets/main.css	/^code { padding: 1px 5px; }$/;"	s
 code	_site/assets/main.css	/^pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #e/;"	s
 dd	_site/assets/main.css	/^body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; paddin/;"	s

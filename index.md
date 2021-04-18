@@ -21,5 +21,5 @@ More specifically, I like to think about Artin's primitive root conjecture and r
 - I used to play tuba and trombone.
 - I like coffee but now I just drink instant coffee.
 
-## Autobiography ##
-Autobiography describing my path to teaching goes here.
+## Brief narrative
+- something

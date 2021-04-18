@@ -3,11 +3,24 @@ title: Research
 layout: page 
 permalink: /research/
 ---
+-[link](#work-roles)
+-[link](#research)
+-[link](#publications)
+
+### Work roles
+- randomization script
+- uwiexam .cls file
+- first examiner work
+- math reviews
+- researcher
+- MSc supervisor
+
+### Research
 I like to study objects such as the multiplicative group over a number field, the points of an elliptic curve over a number field, and Drinfeld modules (and other related objects).
 
 Especially, I like to study analogues of Artin's conjecture for the above objects.
 
-## Publications ##
+### Publications
 
 1. Kuo, Wentang; Tweedle, David. Cyclicity for Drinfeld modules. Submitted for publication.
 1. Kuo, Wentang; Tweedle, David. Artin's conjecture for Drinfeld modules. Submitted for publication.

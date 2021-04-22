@@ -8,7 +8,7 @@ permalink: /teaching/
 - [Teaching philosophy](#teaching-philosophy)
 - [Professional development](#professional-development)
 - [Student learning](#student-learning)
-- [Courses](#courses-taught)
+- [Courses](#courses-i-have-taught)
 
 
 ### Autobiography describing my path to teaching
@@ -65,8 +65,6 @@ The classes that I look upon with fondness are those classes where all course ma
 - **Math 3273 - Linear Algebra II** - a core course for the B.Sc. Mathematics degree. Topics include canonical forms, singular value decomposition.
 - **Mathematics for computing** (under several different course codes) - first year mathematics course for Computer Science/Information Technology students.
 - **Math 2273 - Linear Algebra I** - a core course for Mathematics students. Topics include vector spaces, basis, dimension, linear transformations.
-
-[back to top](#contents)
 
 ### The following courses I have only taught once or twice
 

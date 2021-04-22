@@ -132,6 +132,9 @@ Autobiography describing my path to teaching	teaching.md	/^### Autobiography des
 Blog posts	_site/Blog/index.html	/^  <\/div><h2 class="post-list-heading">Blog posts<\/h2>$/;"	i
 Brief narrative	_site/index.html	/^<h2 id="brief-narrative">Brief narrative<\/h2>$/;"	i
 Brief narrative	index.md	/^## Brief narrative$/;"	s
+Contents	reflections.md	/^### Contents ###$/;"	S
+Contents	research.md	/^### Contents ###$/;"	S
+Contents	teaching.md	/^### Contents$/;"	S
 Courses I have taught	_site/teaching/index.html	/^<h3 id="courses-i-have-taught">Courses I have taught<\/h3>$/;"	j
 Courses I have taught	teaching.md	/^### Courses I have taught$/;"	S
 Critical and structured analysis of the PO process	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Critical and structured analysis of the PO process$/;"	S
@@ -148,6 +151,8 @@ David Tweedle&#39;s website	_site/index.html	/^    <h2 class="footer-heading">Da
 David Tweedle&#39;s website	_site/links/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/research/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/teaching/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
+Facilitator Response	reflections.md	/^### Facilitator Response ###$/;"	S
+Facilitator response	reflections.md	/^### Facilitator response ###$/;"	S
 Facts	_site/index.html	/^<h2 id="facts">Facts<\/h2>$/;"	i
 Facts	index.md	/^## Facts ##$/;"	s
 Fourth journal entry	_site/Blog/index.html	/^        <\/h3>$/;"	j
@@ -158,20 +163,31 @@ Fresh perspective on insight presented	_site/cutl/2021/04/06/reflective-journal-
 Guidance and support to colleagues	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Guidance and support to colleagues$/;"	S
 Guidance and support to colleagues	_site/Blog/index.html	/^    <h3 id="guidance-and-support-to-colleagues">Guidance and support to colleagues<\/h3>$/;"	j
 Guidance and support to colleagues	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h3 id="guidance-and-support-to-colleagues">Guidance and support to colleagues<\/h3>$/;"	j
+Hobbies	index.md	/^## Hobbies ##$/;"	s
 Home	_site/index.html	/^    <h1 class="post-title">Home<\/h1>$/;"	h
 Introduction	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Introduction$/;"	S
 Introduction	_site/Blog/index.html	/^        <h3 id="introduction">Introduction<\/h3>$/;"	j
 Introduction	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h3 id="introduction">Introduction<\/h3>$/;"	j
+Introduction	reflections.md	/^### Introduction ###$/;"	S
 Journal entry 1	_site/Blog/index.html	/^        <\/h3>$/;"	j
 Journal entry 1	_site/cutl/2021/03/20/reflective-journal-entry-1.html	/^    <h1 class="post-title p-name" itemprop="name headline">Journal entry 1<\/h1>$/;"	h
+Journal entry 1 - CUTL 5207	reflections.md	/^## Journal entry 1 - CUTL 5207 ##$/;"	s
+Journal entry 2 - Thoughts on the role of technology (CUTL 5106)	reflections.md	/^## Journal entry 2 - Thoughts on the role of technology (CUTL 5106) ##$/;"	s
 Journal entry 3	_site/Blog/index.html	/^        <\/h3>$/;"	j
 Journal entry 3	_site/cutl/2021/04/17/journal-entry-3.html	/^    <h1 class="post-title p-name" itemprop="name headline">Journal entry 3<\/h1>$/;"	h
+Journal entry 3 - Reflecting on integrating media (CUTL 5106)	reflections.md	/^## Journal entry 3 - Reflecting on integrating media (CUTL 5106) ##$/;"	s
+Journal entry 4 - Conceptions of learning, teaching and reflective practice (CUTL 5001)	reflections.md	/^## Journal entry 4 - Conceptions of learning, teaching and reflective practice (CUTL 5001) ###$/;"	s
 Links	_site/links/index.html	/^    <h1 class="post-title">Links<\/h1>$/;"	h
 Means of improvement	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Means of improvement$/;"	S
 Means of improvement	_site/Blog/index.html	/^    <h3 id="means-of-improvement">Means of improvement<\/h3>$/;"	j
 Means of improvement	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h3 id="means-of-improvement">Means of improvement<\/h3>$/;"	j
+More information	index.md	/^## More information$/;"	s
+My journal entry	reflections.md	/^### My journal entry ###$/;"	S
+My response	reflections.md	/^### My response$/;"	S
+Peer evaluation	reflections.md	/^## Peer evaluation ##$/;"	s
 Peer evaluations	_site/Blog/index.html	/^        <\/h3>$/;"	j
 Peer evaluations	_site/cutl/2021/03/15/i-peer-evaluation.html	/^    <h1 class="post-title p-name" itemprop="name headline">Peer evaluations<\/h1>$/;"	h
+Peer observation	reflections.md	/^### Peer observation$/;"	S
 Pre-recorded sessions versus live visits	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Pre-recorded sessions versus live visits$/;"	S
 Pre-recorded sessions versus live visits	_site/Blog/index.html	/^    <h3 id="pre-recorded-sessions-versus-live-visits">Pre-recorded sessions versus live visits<\//;"	j
 Pre-recorded sessions versus live visits	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h3 id="pre-recorded-sessions-versus-live-visits">Pre-recorded sessions versus live visits<\//;"	j
@@ -182,12 +198,16 @@ Publications	research.md	/^### Publications$/;"	S
 Reflection	_posts/2021-03-20-reflective-journal-entry-1.md	/^### Reflection ###$/;"	S
 Reflection	_site/Blog/index.html	/^<h3 id="reflection">Reflection<\/h3>$/;"	j
 Reflection	_site/cutl/2021/03/20/reflective-journal-entry-1.html	/^<h3 id="reflection">Reflection<\/h3>$/;"	j
+Reflection	reflections.md	/^### Reflection ###$/;"	S
+Reflection	reflections.md	/^### Reflection$/;"	S
 Reflection on peer observation	_site/Blog/index.html	/^        <\/h3>$/;"	j
 Reflection on peer observation	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h1 class="post-title p-name" itemprop="name headline">Reflection on peer observation<\/h1>$/;"	h
 Reflections	_site/Blog/index.html	/^    <h1 class="post-title">Reflections<\/h1>$/;"	h
 Research	_site/research/index.html	/^    <h1 class="post-title">Research<\/h1>$/;"	h
 Research	_site/research/index.html	/^<h3 id="research">Research<\/h3>$/;"	j
 Research	research.md	/^### Research$/;"	S
+Response	reflections.md	/^### Response ###$/;"	S
+Student evaluations	reflections.md	/^## Student evaluations ##$/;"	s
 Student evaluations and feedback	_site/Blog/index.html	/^        <\/h3>$/;"	j
 Student evaluations and feedback	_site/cutl/2021/04/17/student-evaluations-and-feedback.html	/^    <h1 class="post-title p-name" itemprop="name headline">Student evaluations and feedback<\/h1/;"	h
 Student learning	_site/teaching/index.html	/^<h3 id="student-learning">Student learning<\/h3>$/;"	j
@@ -201,11 +221,13 @@ Teaching Philosophy	teaching.md	/^### Teaching Philosophy ###$/;"	S
 The bad	_posts/2021-03-20-reflective-journal-entry-1.md	/^### The bad ###$/;"	S
 The bad	_site/Blog/index.html	/^<h3 id="the-bad">The bad<\/h3>$/;"	j
 The bad	_site/cutl/2021/03/20/reflective-journal-entry-1.html	/^<h3 id="the-bad">The bad<\/h3>$/;"	j
+The bad	reflections.md	/^### The bad ###$/;"	S
 The following courses I have only taught once or twice	_site/teaching/index.html	/^<h3 id="the-following-courses-i-have-only-taught-once-or-twice">The following courses I have onl/;"	j
 The following courses I have only taught once or twice	teaching.md	/^### The following courses I have only taught once or twice$/;"	S
 The good	_posts/2021-03-20-reflective-journal-entry-1.md	/^### The good ###$/;"	S
 The good	_site/Blog/index.html	/^<h3 id="the-good">The good<\/h3>$/;"	j
 The good	_site/cutl/2021/03/20/reflective-journal-entry-1.html	/^<h3 id="the-good">The good<\/h3>$/;"	j
+The good	reflections.md	/^### The good ###$/;"	S
 Well treated account of impact of the entire process	_posts/2021-04-06-reflective-journal-entry-2.md	/^### Well treated account of impact of the entire process$/;"	S
 Well treated account of impact of the entire process	_site/Blog/index.html	/^    <h3 id="well-treated-account-of-impact-of-the-entire-process">Well treated account of impact/;"	j
 Well treated account of impact of the entire process	_site/cutl/2021/04/06/reflective-journal-entry-2.html	/^    <h3 id="well-treated-account-of-impact-of-the-entire-process">Well treated account of impact/;"	j
@@ -276,6 +298,7 @@ p	_site/assets/main.css	/^body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, 
 p	_site/assets/main.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px/;"	s
 permalink: /	index.md	/^permalink: \/$/;"	s
 permalink: /Blog/	blog.md	/^permalink: \/Blog\/$/;"	s
+permalink: /Reflections/	reflections.md	/^permalink: \/Reflections\/$/;"	s
 permalink: /links/	links.md	/^permalink: \/links\/$/;"	s
 permalink: /research/	research.md	/^permalink: \/research\/$/;"	s
 permalink: /teaching/	teaching.md	/^permalink: \/teaching\/$/;"	s

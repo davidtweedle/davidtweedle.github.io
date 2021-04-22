@@ -1,7 +1,6 @@
 ---
 title: Reflections
-list_title: Blog posts
-layout: blog
+layout: page
 permalink: /Blog/
 ---
 

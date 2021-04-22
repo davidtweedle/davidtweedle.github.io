@@ -15,11 +15,19 @@ My research area is number theory.
 More specifically, I like to think about Artin's primitive root conjecture and related topics as well as number theory of function fields.
 
 ## Facts ##
-- I am married and have one kid.
-- I have a brother: [Jesse Tweedle](https://github.com/tweed1e)
-- I like to read and listen to books and music.
-- I used to play tuba and trombone.
-- I like coffee but now I just drink instant coffee.
+- I am married and have one child.
+- I have a sibling: [Jesse Tweedle](https://github.com/tweed1e)
+
+## Hobbies ##
+- Reading books
+- Listening to music
 
 ## Brief narrative
-- something
+This website is a requirement for CUTL 5207.
+It is not very flashy or interesting.
+That is because I am not a flashy or interesting person.
+
+## More information
+I used the jekyll theme [minima](https://github.com/jekyll/minima#readme) as a base for this website (with very minor modifications).
+The pages are mostly done in markdown.
+This website is hosted on github.

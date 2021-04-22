@@ -3,29 +3,25 @@ title: Teaching
 layout: page
 permalink: /teaching/
 ---
+### Contents
 - [Autobiography](#autobiography-describing-my-path-to-teaching)
 - [Teaching philosophy](#teaching-philosophy)
-- [Professional developmentD](#professional-development)
+- [Professional development](#professional-development)
 - [Student learning](#student-learning)
 - [Courses](#courses-taught)
 
+
 ### Autobiography describing my path to teaching
 
-- life long learner, esp math and music
-- music lessons
-- writing in english class
-- math, physics, chemistry, bio
-- moved around a lot
-- love to help in high school, undergrad
-- story of missing the final exam
-- story of failing a course
-- story of project in CS course
-- in grad school, was in the tutorial center, taught a few tutorials
-- got married, graduated, moved to Trinidad
-- hired as temporary lecturer at UWI
-- after three years, hired as permanent member of staff
-- started CUTL in 2016
-- finished CUTL in 2021 
+I had many interesting and fruitful experiences as a learner in elementary school, high school, in music lessons and in university.
+Then in grad school, I had the opportunity to be a tutor in the math help center, and to run a couple tutorial sessions. 
+I found that this was a very rewarding experience.
+
+My path to teaching, is that I want to repay all the great teachers in my life, who helped me learn and understand. But I can't repay them, so I will try my best to "pay it forward".
+I know that I am not the most interesting teacher, but, year by year, I will improve.
+My goal is not to be the most interesting teacher, but just to give back what I was given.
+
+[back to top](#contents)
 
 ### Teaching Philosophy ###
 
@@ -39,12 +35,26 @@ I believe that truly learning a topic takes a long time.  For example, in my own
 
 The classes that I look upon with fondness are those classes where all course materials really blended together.  The lectures were enthusiastic and clearly presented and any examples presented gave insight to the concepts.  Furthermore, the lectures informed the questions on the assignments, and vice verse. I work towards this ideal in the hopes that I can pass on my knowledge and enjoyment of math.
 
+[back to top](#contents)
+
 ### Professional development
-- CUTL
-- graduate student thingy from April 2019
+
+- **CUTL 5207** - Semester II 2020/21 - Reflective teaching for learning. One of four courses offered in the CUTL program.
+- **Moving from Face-to-Face to Online Teaching (in a hurry)** - Tuesday March 17, 2020
+- **Canadian Number Theory Association meeting** - 2018 - conference
+- **Journées Arithmétiques** - 2017 - conference
+- **Research Supervisors Development Course** -  April 24-26, 2019
+- **CUTL 5001, 5104, 5106** - 2016/17
+- **Silvermania** - 2015 - conference
+- **Student-centred Research Supervision** - Tuesday, May 20, 2014
+
+[back to top](#contents)
 
 ### Student learning
-- provides at least three examples and evidence of practitioner designed learning activities or support which lead to student growth
+- Math 3274 - exam 2 -  [question 1 solution](https://youtu.be/AFnlRLZRGIY), [questions 2,3,4](https://youtu.be/LzliznkxCb8)
+- Math 3272 - April 9, 2021 [part 1](https://youtu.be/D3zAe6UWEf0), [part 2](https://youtu.be/UZPcbu2XaDU), [part 3](https://youtu.be/C8AOcmQynjo)
+
+[back to top](#contents)
 
 ### Courses I have taught
 
@@ -56,6 +66,8 @@ The classes that I look upon with fondness are those classes where all course ma
 - **Mathematics for computing** (under several different course codes) - first year mathematics course for Computer Science/Information Technology students.
 - **Math 2273 - Linear Algebra I** - a core course for Mathematics students. Topics include vector spaces, basis, dimension, linear transformations.
 
+[back to top](#contents)
+
 ### The following courses I have only taught once or twice
 
 - Math 2170 - Introduction to Combinatorics
@@ -63,3 +75,5 @@ The classes that I look upon with fondness are those classes where all course ma
 - Math 1151 - Calculus II
 - Math 1152 - Sets and Number Systems
 - Math 3290 - Combinatorics
+
+[back to top](#contents)

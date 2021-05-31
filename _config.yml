@@ -32,7 +32,8 @@ header_pages:
   - index.md
   - research.md
   - teaching.md
-  - reflections.md
+  - videos.md
+  - links.md
 
 include:
   - assets

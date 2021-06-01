@@ -211,7 +211,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.4)
     multipart-post (2.1.1)
-    nokogiri (1.11.2-x86_64-linux)
+    nokogiri (1.11.6-x86_64-linux)
       racc (~> 1.4)
     octokit (4.20.0)
       faraday (>= 0.9)
@@ -223,7 +223,7 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.2.4)
+    rexml (3.2.5)
     rouge (3.26.0)
     ruby-enum (0.9.0)
       i18n
@@ -265,6 +265,8 @@ DEPENDENCIES
   kramdown (>= 2.3.1)
   kramdown-parser-gfm
   minima
+  nokogiri (>= 1.11.4)
+  rexml (>= 3.2.5)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)

@@ -3,8 +3,6 @@ title: Research
 layout: page 
 permalink: /research/
 ---
-### Research
-
 I like to study objects such as the multiplicative group over a number field, the points of an elliptic curve over a number field, and Drinfeld modules (and other related objects).
 
 Especially, I like to study analogues of Artin's conjecture for the above objects.

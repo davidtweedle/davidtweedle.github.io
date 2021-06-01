@@ -22,11 +22,6 @@ More specifically, I like to think about Artin's primitive root conjecture and r
 - Reading books
 - Listening to music
 
-## Brief narrative
-This website is a requirement for CUTL 5207.
-It is not very flashy or interesting.
-That is because I am not a flashy or interesting person.
-
 ## More information
 I used the jekyll theme [minima](https://github.com/jekyll/minima#readme) as a base for this website (with very minor modifications).
 The pages are mostly done in markdown.

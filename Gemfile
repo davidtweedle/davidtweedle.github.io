@@ -41,4 +41,4 @@ gem "kramdown-parser-gfm"
 # for security reasons, I guess?
 gem "nokogiri", ">= 1.11.4"
 gem "rexml", ">= 3.2.5"
-
+gem "addressable", ">=2.8.0"

@@ -33,6 +33,9 @@ header_pages:
 
 include:
   - assets
+  - courses
+  - courses/math-2400
+  - courses/math-3273
 # Plugins (previously gems:)
 plugins:
   - jekyll-feed

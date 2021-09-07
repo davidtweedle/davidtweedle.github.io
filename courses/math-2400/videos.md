@@ -3,4 +3,4 @@ title: Math 2400 videos
 layout: page
 permalink: /courses/math-2400/Math-2400-videos/
 ---
-Math 2400 video links will go here.
+[Lecture 1 - primes and divisibility](/courses/math-2400/Math-2400-videos/lecture-1)

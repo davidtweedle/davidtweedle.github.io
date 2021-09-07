@@ -15,6 +15,8 @@ Meeting times: Tuesdays 2-4pm, Thursdays 11am-12pm.
 
 [Math 2400 videos](/courses/math-2400/Math-2400-videos)
 
+[Draft course notes](/courses/math-2400/Math2400notes.pdf)
+
 ## Math 3273 - Linear Algebra II
 
 Semester I - 2021/2022

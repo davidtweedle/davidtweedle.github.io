@@ -1,6 +1,6 @@
 ---
 title: Math 3273 videos
 layout: page
-permalink: /courses/math-3273/Math-3273-videos/
+permalink: /courses/math-3273/videos/
 ---
-Math 3273 videos will go here.
+[Lecture 1 - review of vector spaces and subspaces](/courses/math-3273/videos/lecture-1)

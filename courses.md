@@ -25,6 +25,6 @@ Meeting times: Tuesdays 7-8pm, Thursdays 6-8pm.
 
 [Course outline](/courses/math-3273/math-3273-course-outline)
 
-[Math 3273 videos](/courses/math-3273/Math-3273-videos)
+[Math 3273 videos](/courses/math-3273/videos)
 
 [Draft course notes](/courses/math-3273/linear-algebra-2.pdf)

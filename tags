@@ -140,6 +140,7 @@ David Tweedle&#39;s website	_site/courses/index.html	/^    <h2 class="footer-hea
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-1.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-2.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
+David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-3.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/divisibility-review.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/math-2400-course-outline.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-3273/math-3273-course-outline.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
@@ -160,7 +161,8 @@ How to study	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="how
 How to study	courses/math-2400/math-2400-course-outline.md	/^### How to study ###$/;"	S
 How to study	courses/math-3273/math-3273-course-outline.md	/^### How to study ###$/;"	S
 Lecture 1 - primes and divisibility	_site/courses/math-2400/Math-2400-videos/lecture-1.html	/^    <h1 class="post-title">Lecture 1 - primes and divisibility<\/h1>$/;"	h
-Lecture 3 - Fundamental theorem of arithmetic	_site/courses/math-2400/Math-2400-videos/lecture-2.html	/^    <h1 class="post-title">Lecture 3 - Fundamental theorem of arithmetic<\/h1>$/;"	h
+Lecture 2 - GCDs	_site/courses/math-2400/Math-2400-videos/lecture-2.html	/^    <h1 class="post-title">Lecture 2 - GCDs<\/h1>$/;"	h
+Lecture 3 - Fundamental theorem of arithmetic	_site/courses/math-2400/Math-2400-videos/lecture-3.html	/^    <h1 class="post-title">Lecture 3 - Fundamental theorem of arithmetic<\/h1>$/;"	h
 Links	_site/links/index.html	/^    <h1 class="post-title">Links<\/h1>$/;"	h
 Math 2400 - Elementary Number Theory	_site/courses/index.html	/^<h2 id="math-2400---elementary-number-theory">Math 2400 - Elementary Number Theory<\/h2>$/;"	i
 Math 2400 - Elementary Number Theory	courses.md	/^## Math 2400 - Elementary Number Theory ##$/;"	s
@@ -255,7 +257,7 @@ permalink: /courses/	courses.md	/^permalink: \/courses\/$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/	courses/math-2400/videos.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-1	courses/math-2400/lecture-1.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-1 $/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-2	courses/math-2400/lecture-2.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-2$/;"	s
-permalink: /courses/math-2400/Math-2400-videos/lecture-2	courses/math-2400/lecture-3.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-2$/;"	s
+permalink: /courses/math-2400/Math-2400-videos/lecture-3	courses/math-2400/lecture-3.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-3$/;"	s
 permalink: /courses/math-2400/math-2400-course-outline	courses/math-2400/math-2400-course-outline.md	/^permalink: \/courses\/math-2400\/math-2400-course-outline$/;"	s
 permalink: /courses/math-3273/math-3273-course-outline	courses/math-3273/math-3273-course-outline.md	/^permalink: \/courses\/math-3273\/math-3273-course-outline$/;"	s
 permalink: /courses/math-3273/videos/	courses/math-3273/videos.md	/^permalink: \/courses\/math-3273\/videos\/$/;"	s

@@ -150,6 +150,7 @@ David Tweedle&#39;s website	_site/index.html	/^    <h2 class="footer-heading">Da
 David Tweedle&#39;s website	_site/links/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/research/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/teaching/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
+Definitions in this video	courses/math-3273/lecture-2.md	/^### Definitions in this video ###$/;"	S
 Divisibility (review)	_site/courses/math-2400/divisibility-review.html	/^    <h1 class="post-title p-name" itemprop="name headline">Divisibility (review)<\/h1>$/;"	h
 Facts	_site/index.html	/^<h2 id="facts">Facts<\/h2>$/;"	i
 Facts	index.md	/^## Facts ##$/;"	s
@@ -262,6 +263,7 @@ permalink: /courses/math-2400/math-2400-course-outline	courses/math-2400/math-24
 permalink: /courses/math-3273/math-3273-course-outline	courses/math-3273/math-3273-course-outline.md	/^permalink: \/courses\/math-3273\/math-3273-course-outline$/;"	s
 permalink: /courses/math-3273/videos/	courses/math-3273/videos.md	/^permalink: \/courses\/math-3273\/videos\/$/;"	s
 permalink: /courses/math-3273/videos/lecture-1	courses/math-3273/lecture-1.md	/^permalink: \/courses\/math-3273\/videos\/lecture-1$/;"	s
+permalink: /courses/math-3273/videos/lecture-2	courses/math-3273/lecture-2.md	/^permalink: \/courses\/math-3273\/videos\/lecture-2$/;"	s
 permalink: /links/	links.md	/^permalink: \/links\/$/;"	s
 permalink: /research/	research.md	/^permalink: \/research\/$/;"	s
 permalink: /teaching/	teaching.md	/^permalink: \/teaching\/$/;"	s

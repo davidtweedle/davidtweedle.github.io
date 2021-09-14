@@ -8,3 +8,7 @@ permalink: /courses/math-2400/Math-2400-videos/
 [Lecture 2 - gcds](/courses/math-2400/Math-2400-videos/lecture-2)
 
 [Lecture 3 - Fundamental theorem of arithmetic](/courses/math-2400/Math-2400-videos/lecture-3)
+
+[Lecture 4 - More about gcds](/courses/math-2400/Math-2400-videos/lecture-4)
+
+[Lecture 5 - Linear diophantine equations](/courses/math-2400/Math-2400-videos/lecture-5)

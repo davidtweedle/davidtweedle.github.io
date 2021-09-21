@@ -12,3 +12,7 @@ permalink: /courses/math-2400/Math-2400-videos/
 [Lecture 4 - More about gcds](/courses/math-2400/Math-2400-videos/lecture-4)
 
 [Lecture 5 - Linear diophantine equations](/courses/math-2400/Math-2400-videos/lecture-5)
+
+[Lecture 6 - Modular arithmetic](/courses/math-2400/Math-2400-videos/lecture-6)
+
+[Lecture 7 - Units modulo m](/courses/math-2400/Math-2400-videos/lecture-7)

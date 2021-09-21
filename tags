@@ -157,6 +157,7 @@ David Tweedle&#39;s website	_site/research/index.html	/^    <h2 class="footer-he
 David Tweedle&#39;s website	_site/teaching/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 Definitions in this video	_site/courses/math-3273/videos/lecture-2.html	/^<h3 id="definitions-in-this-video">Definitions in this video<\/h3>$/;"	j
 Definitions in this video	courses/math-3273/lecture-2.md	/^### Definitions in this video ###$/;"	S
+Definitions in this video	courses/math-3273/lecture-3.md	/^### Definitions in this video ###$/;"	S
 Divisibility (review)	_site/courses/math-2400/divisibility-review.html	/^    <h1 class="post-title p-name" itemprop="name headline">Divisibility (review)<\/h1>$/;"	h
 Facts	_site/index.html	/^<h2 id="facts">Facts<\/h2>$/;"	i
 Facts	index.md	/^## Facts ##$/;"	s
@@ -274,11 +275,14 @@ permalink: /courses/math-2400/Math-2400-videos/lecture-2	courses/math-2400/lectu
 permalink: /courses/math-2400/Math-2400-videos/lecture-3	courses/math-2400/lecture-3.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-3$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-4	courses/math-2400/lecture-4.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-4$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-5	courses/math-2400/lecture-5.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-5$/;"	s
+permalink: /courses/math-2400/Math-2400-videos/lecture-6	courses/math-2400/lecture-6.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-6$/;"	s
+permalink: /courses/math-2400/Math-2400-videos/lecture-7	courses/math-2400/lecture-7.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-7$/;"	s
 permalink: /courses/math-2400/math-2400-course-outline	courses/math-2400/math-2400-course-outline.md	/^permalink: \/courses\/math-2400\/math-2400-course-outline$/;"	s
 permalink: /courses/math-3273/math-3273-course-outline	courses/math-3273/math-3273-course-outline.md	/^permalink: \/courses\/math-3273\/math-3273-course-outline$/;"	s
 permalink: /courses/math-3273/videos/	courses/math-3273/videos.md	/^permalink: \/courses\/math-3273\/videos\/$/;"	s
 permalink: /courses/math-3273/videos/lecture-1	courses/math-3273/lecture-1.md	/^permalink: \/courses\/math-3273\/videos\/lecture-1$/;"	s
 permalink: /courses/math-3273/videos/lecture-2	courses/math-3273/lecture-2.md	/^permalink: \/courses\/math-3273\/videos\/lecture-2$/;"	s
+permalink: /courses/math-3273/videos/lecture-3	courses/math-3273/lecture-3.md	/^permalink: \/courses\/math-3273\/videos\/lecture-3$/;"	s
 permalink: /links/	links.md	/^permalink: \/links\/$/;"	s
 permalink: /research/	research.md	/^permalink: \/research\/$/;"	s
 permalink: /teaching/	teaching.md	/^permalink: \/teaching\/$/;"	s

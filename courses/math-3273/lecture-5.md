@@ -1,7 +1,7 @@
 ---
-title: Lecture 4 - coordinates (3 videos)
+title: Lecture 5 - Coordinates and Direct sums
 layout: page
-permalink: /courses/math-3273/videos/lecture-4
+permalink: /courses/math-3273/videos/lecture-5
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cNhas7z1Q8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,5 +1,5 @@
 ---
-title: Lecture 5 - Introduction to modular arithmetic.
+title: Lecture 6 - Introduction to modular arithmetic.
 layout: page
 permalink: /courses/math-2400/Math-2400-videos/lecture-6
 ---

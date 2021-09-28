@@ -16,3 +16,7 @@ permalink: /courses/math-2400/Math-2400-videos/
 [Lecture 6 - Modular arithmetic](/courses/math-2400/Math-2400-videos/lecture-6)
 
 [Lecture 7 - Units modulo m](/courses/math-2400/Math-2400-videos/lecture-7)
+
+[Lecture 8 - Fermat's Little Theorem](/courses/math-2400/Math-2400-videos/lecture-8)
+
+[Lecture 9 - Euler's phi function](/courses/math-2400/Math-2400-videos/lecture-9)

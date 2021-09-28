@@ -147,6 +147,8 @@ David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-4.h
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-5.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-6.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-7.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
+David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-8.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
+David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-9.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/divisibility-review.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/math-2400-course-outline.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-3273/math-3273-course-outline.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
@@ -183,6 +185,8 @@ Lecture 4 - more about gcd&#39;s	_site/courses/math-2400/Math-2400-videos/lectur
 Lecture 5 - Introduction to modular arithmetic.	_site/courses/math-2400/Math-2400-videos/lecture-6.html	/^    <h1 class="post-title">Lecture 5 - Introduction to modular arithmetic.<\/h1>$/;"	h
 Lecture 5 - Linear diophantine equations	_site/courses/math-2400/Math-2400-videos/lecture-5.html	/^    <h1 class="post-title">Lecture 5 - Linear diophantine equations<\/h1>$/;"	h
 Lecture 7 - Units modulo m	_site/courses/math-2400/Math-2400-videos/lecture-7.html	/^    <h1 class="post-title">Lecture 7 - Units modulo m<\/h1>$/;"	h
+Lecture 8 - Fermat&#39;s Little Theorem	_site/courses/math-2400/Math-2400-videos/lecture-8.html	/^    <h1 class="post-title">Lecture 8 - Fermat&#39;s Little Theorem<\/h1>$/;"	h
+Lecture 9 - Euler&#39;s phi function	_site/courses/math-2400/Math-2400-videos/lecture-9.html	/^    <h1 class="post-title">Lecture 9 - Euler&#39;s phi function<\/h1>$/;"	h
 Links	_site/links/index.html	/^    <h1 class="post-title">Links<\/h1>$/;"	h
 Math 2400 - Elementary Number Theory	_site/courses/index.html	/^<h2 id="math-2400---elementary-number-theory">Math 2400 - Elementary Number Theory<\/h2>$/;"	i
 Math 2400 - Elementary Number Theory	courses.md	/^## Math 2400 - Elementary Number Theory ##$/;"	s
@@ -286,6 +290,8 @@ permalink: /courses/math-2400/Math-2400-videos/lecture-4	courses/math-2400/lectu
 permalink: /courses/math-2400/Math-2400-videos/lecture-5	courses/math-2400/lecture-5.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-5$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-6	courses/math-2400/lecture-6.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-6$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-7	courses/math-2400/lecture-7.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-7$/;"	s
+permalink: /courses/math-2400/Math-2400-videos/lecture-8	courses/math-2400/lecture-8.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-8$/;"	s
+permalink: /courses/math-2400/Math-2400-videos/lecture-9	courses/math-2400/lecture-9.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-9$/;"	s
 permalink: /courses/math-2400/math-2400-course-outline	courses/math-2400/math-2400-course-outline.md	/^permalink: \/courses\/math-2400\/math-2400-course-outline$/;"	s
 permalink: /courses/math-3273/math-3273-course-outline	courses/math-3273/math-3273-course-outline.md	/^permalink: \/courses\/math-3273\/math-3273-course-outline$/;"	s
 permalink: /courses/math-3273/videos/	courses/math-3273/videos.md	/^permalink: \/courses\/math-3273\/videos\/$/;"	s

@@ -20,3 +20,7 @@ permalink: /courses/math-2400/Math-2400-videos/
 [Lecture 8 - Fermat's Little Theorem](/courses/math-2400/Math-2400-videos/lecture-8)
 
 [Lecture 9 - Euler's phi function](/courses/math-2400/Math-2400-videos/lecture-9)
+
+[Lecture 10 - Primitive roots](/courses/math-2400/Math-2400-videos/lecture-10)
+
+[Lecture 11 - Legendre symbols and Gauss Lemma](/courses/math-2400/Math-2400-videos/lecture-11)

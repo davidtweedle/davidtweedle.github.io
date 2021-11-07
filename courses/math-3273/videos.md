@@ -12,3 +12,5 @@ Lecture 3 - bases, direct sums, to be added later.
 [Lecture 4 - coordinates](/courses/math-3273/videos/lecture-4)
 
 [Lecture 5 - coordinates and direct sums](/courses/math-3273/videos/lecture-5)
+
+[Lecture 6 - QR factorization](/courses/math-3273/videos/lecture-6)

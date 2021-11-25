@@ -24,3 +24,5 @@ permalink: /courses/math-2400/Math-2400-videos/
 [Lecture 10 - Primitive roots](/courses/math-2400/Math-2400-videos/lecture-10)
 
 [Lecture 11 - Legendre symbols and Gauss Lemma](/courses/math-2400/Math-2400-videos/lecture-11)
+
+[Lecture 12 - Periodic continued fractions](/courses/math-2400/Math-2400-videos/lecture-12)

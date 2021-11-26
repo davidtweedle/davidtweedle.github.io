@@ -143,6 +143,7 @@ David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/index.html	
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-1.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-10.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-11.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
+David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-12.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-2.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-3.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-4.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
@@ -160,6 +161,8 @@ David Tweedle&#39;s website	_site/courses/math-3273/videos/lecture-2.html	/^    
 David Tweedle&#39;s website	_site/courses/math-3273/videos/lecture-3.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-3273/videos/lecture-4.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-3273/videos/lecture-5.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
+David Tweedle&#39;s website	_site/courses/math-3273/videos/lecture-6.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
+David Tweedle&#39;s website	_site/courses/math-3273/videos/lecture-7.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/links/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/research/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
@@ -182,6 +185,7 @@ How to study	courses/math-3273/math-3273-course-outline.md	/^### How to study ##
 Lecture 1 - primes and divisibility	_site/courses/math-2400/Math-2400-videos/lecture-1.html	/^    <h1 class="post-title">Lecture 1 - primes and divisibility<\/h1>$/;"	h
 Lecture 10 - Primitive Roots	_site/courses/math-2400/Math-2400-videos/lecture-10.html	/^    <h1 class="post-title">Lecture 10 - Primitive Roots<\/h1>$/;"	h
 Lecture 11 - Legendre Symbols and Gauss&#39; Lemma	_site/courses/math-2400/Math-2400-videos/lecture-11.html	/^    <h1 class="post-title">Lecture 11 - Legendre Symbols and Gauss&#39; Lemma<\/h1>$/;"	h
+Lecture 12 - Periodic continued fractions	_site/courses/math-2400/Math-2400-videos/lecture-12.html	/^    <h1 class="post-title">Lecture 12 - Periodic continued fractions<\/h1>$/;"	h
 Lecture 2 - GCDs	_site/courses/math-2400/Math-2400-videos/lecture-2.html	/^    <h1 class="post-title">Lecture 2 - GCDs<\/h1>$/;"	h
 Lecture 3 - Fundamental theorem of arithmetic	_site/courses/math-2400/Math-2400-videos/lecture-3.html	/^    <h1 class="post-title">Lecture 3 - Fundamental theorem of arithmetic<\/h1>$/;"	h
 Lecture 3 - direct sums, linear independence, span, dimension	_site/courses/math-3273/videos/lecture-3.html	/^    <h1 class="post-title">Lecture 3 - direct sums, linear independence, span, dimension<\/h1>$/;"	h
@@ -190,6 +194,8 @@ Lecture 4 - more about gcd&#39;s	_site/courses/math-2400/Math-2400-videos/lectur
 Lecture 5 - Coordinates and Direct sums	_site/courses/math-3273/videos/lecture-5.html	/^    <h1 class="post-title">Lecture 5 - Coordinates and Direct sums<\/h1>$/;"	h
 Lecture 5 - Linear diophantine equations	_site/courses/math-2400/Math-2400-videos/lecture-5.html	/^    <h1 class="post-title">Lecture 5 - Linear diophantine equations<\/h1>$/;"	h
 Lecture 6 - Introduction to modular arithmetic.	_site/courses/math-2400/Math-2400-videos/lecture-6.html	/^    <h1 class="post-title">Lecture 6 - Introduction to modular arithmetic.<\/h1>$/;"	h
+Lecture 6 - QR factorizations	_site/courses/math-3273/videos/lecture-6.html	/^    <h1 class="post-title">Lecture 6 - QR factorizations<\/h1>$/;"	h
+Lecture 7 - Jordan canonical form	_site/courses/math-3273/videos/lecture-7.html	/^    <h1 class="post-title">Lecture 7 - Jordan canonical form<\/h1>$/;"	h
 Lecture 7 - Units modulo m	_site/courses/math-2400/Math-2400-videos/lecture-7.html	/^    <h1 class="post-title">Lecture 7 - Units modulo m<\/h1>$/;"	h
 Lecture 8 - Fermat&#39;s Little Theorem	_site/courses/math-2400/Math-2400-videos/lecture-8.html	/^    <h1 class="post-title">Lecture 8 - Fermat&#39;s Little Theorem<\/h1>$/;"	h
 Lecture 9 - Euler&#39;s phi function	_site/courses/math-2400/Math-2400-videos/lecture-9.html	/^    <h1 class="post-title">Lecture 9 - Euler&#39;s phi function<\/h1>$/;"	h
@@ -292,6 +298,7 @@ permalink: /courses/math-2400/Math-2400-videos/	courses/math-2400/videos.md	/^pe
 permalink: /courses/math-2400/Math-2400-videos/lecture-1	courses/math-2400/lecture-1.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-1 $/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-10	courses/math-2400/lecture-10.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-10$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-11	courses/math-2400/lecture-11.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-11$/;"	s
+permalink: /courses/math-2400/Math-2400-videos/lecture-12	courses/math-2400/lecture-12.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-12$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-2	courses/math-2400/lecture-2.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-2$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-3	courses/math-2400/lecture-3.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-3$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-4	courses/math-2400/lecture-4.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-4$/;"	s
@@ -309,6 +316,7 @@ permalink: /courses/math-3273/videos/lecture-3	courses/math-3273/lecture-3.md	/^
 permalink: /courses/math-3273/videos/lecture-4	courses/math-3273/lecture-4.md	/^permalink: \/courses\/math-3273\/videos\/lecture-4$/;"	s
 permalink: /courses/math-3273/videos/lecture-5	courses/math-3273/lecture-5.md	/^permalink: \/courses\/math-3273\/videos\/lecture-5$/;"	s
 permalink: /courses/math-3273/videos/lecture-6	courses/math-3273/lecture-6.md	/^permalink: \/courses\/math-3273\/videos\/lecture-6$/;"	s
+permalink: /courses/math-3273/videos/lecture-7	courses/math-3273/lecture-7.md	/^permalink: \/courses\/math-3273\/videos\/lecture-7$/;"	s
 permalink: /links/	links.md	/^permalink: \/links\/$/;"	s
 permalink: /research/	research.md	/^permalink: \/research\/$/;"	s
 permalink: /teaching/	teaching.md	/^permalink: \/teaching\/$/;"	s

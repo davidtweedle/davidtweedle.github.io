@@ -14,3 +14,5 @@ Lecture 3 - bases, direct sums, to be added later.
 [Lecture 5 - coordinates and direct sums](/courses/math-3273/videos/lecture-5)
 
 [Lecture 6 - QR factorization](/courses/math-3273/videos/lecture-6)
+
+[Lecture 7 - Jordan canonical form](/courses/math-3273/videos/lecture-7)

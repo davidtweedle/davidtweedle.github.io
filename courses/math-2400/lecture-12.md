@@ -1,14 +1,19 @@
 ---
-title: Lecture 11 - Periodic continued fractions
+title: Lecture 12 - Periodic continued fractions
 layout: page
-permalink: /courses/math-2400/Math-2400-videos/lecture-11
+permalink: /courses/math-2400/Math-2400-videos/lecture-12
 ---
 This series of videos is about periodic continued fractions.
 Before watching the videos, remember the following facts and definitions.
 
-**Definition** - nearly simple continued fraction
-**Definition** - $$n$$-th convergents
-**Proposition** - formula for nearly simple continued fraction
+**Definition** - A nearly simple continued fraction is 
+
+$$[a_0,a_1,a_2,\ldots,a_n,z] = a_0 + \frac{1}{a_1 + \frac{1}{a_2+\frac{1}{\ddots + \frac{1}{z}}}}$$
+
+and if $$\frac{p_n}{q_n} = [a_0,\ldots,a_n] $$ and $$\frac{p_{n-1}}{q_{n-1}} = [a_0,\ldots,a_{n-1}]$$ are the $$n$$-th and $$n-1$$-st convergents, then we have
+
+$$ [a_0,a_1,\ldots,a_n,z] = \frac{p_{n-1} + p_nz}{q_{n-1} + q_n z} $$
+
 
 In this first video, we will prove the following lemma.
 
@@ -22,7 +27,7 @@ $$ \alpha = [\overline{a_0,a_1,\ldots,a_n}] $$
 
 and
 
-$$ \beta = [\overline{a_n,a_{n-1},\ldots,a_0] $$
+$$ \beta = [\overline{a_n,a_{n-1},\ldots,a_0}] $$
 
 then $$\alpha $$ is the root of a quadratic polynomial and the conjugate root $$\alpha'$$ satisfies $$\alpha' = \frac{-1}{\beta}$$, so that $$-1<\alpha'<0$$.
 

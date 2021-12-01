@@ -66,3 +66,32 @@ By using Householder matrices one may calculate the QR factorization.
 Then there exists an $$m$$-by-$$m$$  unitary matrix $$V$$ and an $$n$$-by-$$n$$ upper triangular matrix $$R$$ with non-negative entries on the diagonal such that
 
 $$A = V\left(\begin{array}{c} R\\ 0\end{array}\right).$$
+
+In the following video, we calculate the QR factorization step-by-step using sagemath.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZNW21C0VB7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Here are some of the functions we used in the above video.
+
+To define a vector $$x = \left(\begin{array}{c}1\\2\\3\\4\end{array}\right) $$, say, we would enter 
+
+    x = vector([1,2,3,4]);
+
+To compute $$I - 2\frac{\mathrm{w}\mathrm{w}^T}{\mathrm{w}^T\mathrm{w}} $$ we used
+
+    identity_matrix(4) - 2*(w.row()*w.column())/(w*w);
+
+To define a 4-by-4 matrix, $$ A = \left(\begin{array}{cccc} 1&2&3&4\\0&1&2&3\\0&0&1&2\\0&0&0&1\end{array}\right) $$ we can use
+
+    A = matrix(4,4,[[1,2,3,4],[0,1,2,3],[0,0,1,2],[0,0,0,1]]);
+
+If we have two matrices $$ A $$ and $$ B $$ we can construct the block matrix $$A\oplus B = \left(\begin{array}{cc} A&0\\0&B\end{array}\right)$$ by doing
+
+    A.block_sum(B)
+
+Finally, if we are given a 4-by-4 matrix $$ A $$ and we want to extract the matrix $$ B $$ consisting of the entries in the 2nd, 3rd and 4th columns and rows, we would put
+
+    A = random_matrix(ZZ,4,4);
+    B = A[[1..3],[1..3]];
+
+Note that there was a mistake in the code shown above in the video, sorry!

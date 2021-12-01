@@ -26,3 +26,5 @@ permalink: /courses/math-2400/Math-2400-videos/
 [Lecture 11 - Legendre symbols and Gauss Lemma](/courses/math-2400/Math-2400-videos/lecture-11)
 
 [Lecture 12 - Periodic continued fractions](/courses/math-2400/Math-2400-videos/lecture-12)
+
+[Lecture 13 - basics of RSA](/courses/math-2400/Math-2400-videos/lecture-13)

@@ -129,11 +129,13 @@ Assessment information	_site/courses/math-2400/math-2400-course-outline.html	/^<
 Assessment information	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="assessment-information">Assessment information<\/h3>$/;"	j
 Assessment information	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="assessment-information">Assessment information<\/h3>$/;"	j
 Assessment information	courses/math-2400/math-2400-course-outline.md	/^### Assessment information ###$/;"	S
+Assessment information	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="assessment-information">Assessment information<\/h3>$/;"	j
 Assessment information	courses/math-3273/math-3273-course-outline.md	/^### Assessment information ###$/;"	S
 Calendar	_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="calendar">Calendar<\/h3>$/;"	j
 Calendar	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="calendar">Calendar<\/h3>$/;"	j
 Calendar	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="calendar">Calendar<\/h3>$/;"	j
 Calendar	courses/math-2400/math-2400-course-outline.md	/^### Calendar ###$/;"	S
+Calendar	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="calendar">Calendar<\/h3>$/;"	j
 Calendar	courses/math-3273/math-3273-course-outline.md	/^### Calendar ###$/;"	S
 Course information	_site/courses/index.html	/^    <h1 class="post-title">Course information<\/h1>$/;"	h
 Courses I have taught	_site/teaching/index.html	/^    <h3 id="courses-i-have-taught">Courses I have taught<\/h3>$/;"	j
@@ -144,6 +146,7 @@ David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-1.h
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-10.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-11.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-12.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
+David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-13.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-2.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-3.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-4.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
@@ -163,12 +166,15 @@ David Tweedle&#39;s website	_site/courses/math-3273/videos/lecture-4.html	/^    
 David Tweedle&#39;s website	_site/courses/math-3273/videos/lecture-5.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-3273/videos/lecture-6.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-3273/videos/lecture-7.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
+David Tweedle&#39;s website	_site/courses/math-3273/videos/lecture-8.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/links/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/research/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/teaching/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 Definitions in this video	_site/courses/math-3273/videos/lecture-2.html	/^<h3 id="definitions-in-this-video">Definitions in this video<\/h3>$/;"	j
 Definitions in this video	_site/courses/math-3273/videos/lecture-3.html	/^    <h3 id="definitions-in-this-video">Definitions in this video<\/h3>$/;"	j
+Definitions in this video	courses/math-3273/_site/courses/math-3273/videos/lecture-2.html	/^<h3 id="definitions-in-this-video">Definitions in this video<\/h3>$/;"	j
+Definitions in this video	courses/math-3273/_site/courses/math-3273/videos/lecture-3.html	/^<h3 id="definitions-in-this-video">Definitions in this video<\/h3>$/;"	j
 Definitions in this video	courses/math-3273/lecture-2.md	/^### Definitions in this video ###$/;"	S
 Definitions in this video	courses/math-3273/lecture-3.md	/^### Definitions in this video ###$/;"	S
 Divisibility (review)	_site/courses/math-2400/divisibility-review.html	/^    <h1 class="post-title p-name" itemprop="name headline">Divisibility (review)<\/h1>$/;"	h
@@ -181,11 +187,13 @@ How to study	_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="how
 How to study	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="how-to-study">How to study<\/h3>$/;"	j
 How to study	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="how-to-study">How to study<\/h3>$/;"	j
 How to study	courses/math-2400/math-2400-course-outline.md	/^### How to study ###$/;"	S
+How to study	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="how-to-study">How to study<\/h3>$/;"	j
 How to study	courses/math-3273/math-3273-course-outline.md	/^### How to study ###$/;"	S
 Lecture 1 - primes and divisibility	_site/courses/math-2400/Math-2400-videos/lecture-1.html	/^    <h1 class="post-title">Lecture 1 - primes and divisibility<\/h1>$/;"	h
 Lecture 10 - Primitive Roots	_site/courses/math-2400/Math-2400-videos/lecture-10.html	/^    <h1 class="post-title">Lecture 10 - Primitive Roots<\/h1>$/;"	h
 Lecture 11 - Legendre Symbols and Gauss&#39; Lemma	_site/courses/math-2400/Math-2400-videos/lecture-11.html	/^    <h1 class="post-title">Lecture 11 - Legendre Symbols and Gauss&#39; Lemma<\/h1>$/;"	h
 Lecture 12 - Periodic continued fractions	_site/courses/math-2400/Math-2400-videos/lecture-12.html	/^    <h1 class="post-title">Lecture 12 - Periodic continued fractions<\/h1>$/;"	h
+Lecture 13 - basics of RSA	_site/courses/math-2400/Math-2400-videos/lecture-13.html	/^    <h1 class="post-title">Lecture 13 - basics of RSA<\/h1>$/;"	h
 Lecture 2 - GCDs	_site/courses/math-2400/Math-2400-videos/lecture-2.html	/^    <h1 class="post-title">Lecture 2 - GCDs<\/h1>$/;"	h
 Lecture 3 - Fundamental theorem of arithmetic	_site/courses/math-2400/Math-2400-videos/lecture-3.html	/^    <h1 class="post-title">Lecture 3 - Fundamental theorem of arithmetic<\/h1>$/;"	h
 Lecture 3 - direct sums, linear independence, span, dimension	_site/courses/math-3273/videos/lecture-3.html	/^    <h1 class="post-title">Lecture 3 - direct sums, linear independence, span, dimension<\/h1>$/;"	h
@@ -198,6 +206,7 @@ Lecture 6 - QR factorizations	_site/courses/math-3273/videos/lecture-6.html	/^  
 Lecture 7 - Jordan canonical form	_site/courses/math-3273/videos/lecture-7.html	/^    <h1 class="post-title">Lecture 7 - Jordan canonical form<\/h1>$/;"	h
 Lecture 7 - Units modulo m	_site/courses/math-2400/Math-2400-videos/lecture-7.html	/^    <h1 class="post-title">Lecture 7 - Units modulo m<\/h1>$/;"	h
 Lecture 8 - Fermat&#39;s Little Theorem	_site/courses/math-2400/Math-2400-videos/lecture-8.html	/^    <h1 class="post-title">Lecture 8 - Fermat&#39;s Little Theorem<\/h1>$/;"	h
+Lecture 8 - Singular value decomposition	_site/courses/math-3273/videos/lecture-8.html	/^    <h1 class="post-title">Lecture 8 - Singular value decomposition<\/h1>$/;"	h
 Lecture 9 - Euler&#39;s phi function	_site/courses/math-2400/Math-2400-videos/lecture-9.html	/^    <h1 class="post-title">Lecture 9 - Euler&#39;s phi function<\/h1>$/;"	h
 Links	_site/links/index.html	/^    <h1 class="post-title">Links<\/h1>$/;"	h
 Math 2400 - Elementary Number Theory	_site/courses/index.html	/^<h2 id="math-2400---elementary-number-theory">Math 2400 - Elementary Number Theory<\/h2>$/;"	i
@@ -211,6 +220,7 @@ Math 3273 videos	_site/courses/math-3273/videos/index.html	/^    <h1 class="post
 More information	_site/index.html	/^<h2 id="more-information">More information<\/h2>$/;"	i
 More information	index.md	/^## More information$/;"	s
 Problems	_site/courses/math-3273/videos/lecture-1.html	/^<h3 id="problems">Problems<\/h3>$/;"	j
+Problems	courses/math-3273/_site/courses/math-3273/videos/lecture-1.html	/^<h3 id="problems">Problems<\/h3>$/;"	j
 Problems	courses/math-3273/lecture-1.md	/^### Problems ###$/;"	S
 Publications	_site/research/index.html	/^<h3 id="publications">Publications<\/h3>$/;"	j
 Publications	research.md	/^### Publications$/;"	S
@@ -224,16 +234,19 @@ What I expect from you	_site/courses/math-2400/math-2400-course-outline.html	/^<
 What I expect from you	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-i-expect-from-you">What I expect from you<\/h3>$/;"	j
 What I expect from you	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="what-i-expect-from-you">What I expect from you<\/h3>$/;"	j
 What I expect from you	courses/math-2400/math-2400-course-outline.md	/^### What I expect from you ###$/;"	S
+What I expect from you	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-i-expect-from-you">What I expect from you<\/h3>$/;"	j
 What I expect from you	courses/math-3273/math-3273-course-outline.md	/^### What I expect from you ###$/;"	S
 What can you expect from this course	_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="what-can-you-expect-from-this-course">What can you expect from this course<\/h3>$/;"	j
 What can you expect from this course	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-can-you-expect-from-this-course">What can you expect from this course<\/h3>$/;"	j
 What can you expect from this course	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="what-can-you-expect-from-this-course">What can you expect from this course<\/h3>$/;"	j
 What can you expect from this course	courses/math-2400/math-2400-course-outline.md	/^### What can you expect from this course ###$/;"	S
+What can you expect from this course	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-can-you-expect-from-this-course">What can you expect from this course<\/h3>$/;"	j
 What can you expect from this course	courses/math-3273/math-3273-course-outline.md	/^### What can you expect from this course ###$/;"	S
 What is elementary number theory	_site/courses/math-2400/math-2400-course-outline.html	/^    <h3 id="what-is-elementary-number-theory">What is elementary number theory<\/h3>$/;"	j
 What is elementary number theory	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="what-is-elementary-number-theory">What is elementary number theory<\/h3>$/;"	j
 What is elementary number theory	courses/math-2400/math-2400-course-outline.md	/^### What is elementary number theory ###$/;"	S
 What is linear algebra 2	_site/courses/math-3273/math-3273-course-outline.html	/^    <h3 id="what-is-linear-algebra-2">What is linear algebra 2<\/h3>$/;"	j
+What is linear algebra 2	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-is-linear-algebra-2">What is linear algebra 2<\/h3>$/;"	j
 What is linear algebra 2	courses/math-3273/math-3273-course-outline.md	/^### What is linear algebra 2 ###$/;"	S
 a	_site/assets/main.css	/^a { color: #2a7ae2; text-decoration: none; }$/;"	s
 a:hover	_site/assets/main.css	/^a:hover { color: #111; text-decoration: underline; }$/;"	s
@@ -299,6 +312,7 @@ permalink: /courses/math-2400/Math-2400-videos/lecture-1	courses/math-2400/lectu
 permalink: /courses/math-2400/Math-2400-videos/lecture-10	courses/math-2400/lecture-10.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-10$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-11	courses/math-2400/lecture-11.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-11$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-12	courses/math-2400/lecture-12.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-12$/;"	s
+permalink: /courses/math-2400/Math-2400-videos/lecture-13	courses/math-2400/lecture-13.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-13$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-2	courses/math-2400/lecture-2.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-2$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-3	courses/math-2400/lecture-3.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-3$/;"	s
 permalink: /courses/math-2400/Math-2400-videos/lecture-4	courses/math-2400/lecture-4.md	/^permalink: \/courses\/math-2400\/Math-2400-videos\/lecture-4$/;"	s
@@ -317,6 +331,7 @@ permalink: /courses/math-3273/videos/lecture-4	courses/math-3273/lecture-4.md	/^
 permalink: /courses/math-3273/videos/lecture-5	courses/math-3273/lecture-5.md	/^permalink: \/courses\/math-3273\/videos\/lecture-5$/;"	s
 permalink: /courses/math-3273/videos/lecture-6	courses/math-3273/lecture-6.md	/^permalink: \/courses\/math-3273\/videos\/lecture-6$/;"	s
 permalink: /courses/math-3273/videos/lecture-7	courses/math-3273/lecture-7.md	/^permalink: \/courses\/math-3273\/videos\/lecture-7$/;"	s
+permalink: /courses/math-3273/videos/lecture-8	courses/math-3273/lecture-8.md	/^permalink: \/courses\/math-3273\/videos\/lecture-8$/;"	s
 permalink: /links/	links.md	/^permalink: \/links\/$/;"	s
 permalink: /research/	research.md	/^permalink: \/research\/$/;"	s
 permalink: /teaching/	teaching.md	/^permalink: \/teaching\/$/;"	s

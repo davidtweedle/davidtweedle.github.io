@@ -16,3 +16,5 @@ Lecture 3 - bases, direct sums, to be added later.
 [Lecture 6 - QR factorization](/courses/math-3273/videos/lecture-6)
 
 [Lecture 7 - Jordan canonical form](/courses/math-3273/videos/lecture-7)
+
+[Lecture 8 - Singular value decomposition](/courses/math-3273/videos/lecture-8)

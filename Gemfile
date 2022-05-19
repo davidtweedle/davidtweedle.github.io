@@ -36,9 +36,9 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 # kramdown v1, comment out this line.
 gem "kramdown", ">=2.3.1"
 gem "kramdown-parser-gfm"
-
+gem "webrick"
 
 # for security reasons, I guess?
-gem "nokogiri", ">= 1.12.5"
+gem "nokogiri", ">= 1.13.5"
 gem "rexml", ">= 3.2.5"
 gem "addressable", ">=2.8.0"

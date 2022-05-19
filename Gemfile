@@ -40,5 +40,6 @@ gem "webrick"
 
 # for security reasons, I guess?
 gem "nokogiri", ">= 1.13.5"
+gem "commonmarker", ">=0.23.4"
 gem "rexml", ">= 3.2.5"
 gem "addressable", ">=2.8.0"

@@ -9,8 +9,8 @@ Especially, I like to study analogues of Artin's conjecture for the above object
 
 ### Publications
 
-1. Artin's conjecture for Drinfeld modules, with Wentang Kuo. Accepted at Algebra and Number Theory. [Accepted version](/assets/ArtinDrinfeld-accepted-version.pdf)
-1. Cyclicity for Drinfeld modules, with Wentang Kuo. Accepted at Bulletin of the London Mathematical Society. [Article link](https://onlinelibrary.wiley.com/share/author/HWGGRIBPVEKBW3NDRDM5?target=10.1112/blms.12513)
+1. Artin's conjecture for Drinfeld modules, with Wentang Kuo. *Algebra and Number Theory*, Vol. 16 (2022), No. 5, 1025-1070. [DOI: 10.2140/ant.2022.16.1025](https://doi.org/10.2140/ant.2022.16.1025), [Accepted version](/assets/ArtinDrinfeld-accepted-version.pdf)
+1. Cyclicity for Drinfeld modules, with Wentang Kuo. *Bulletin of the London Mathematical Society*, (2021), 53: 1500-1519. [Article link](https://onlinelibrary.wiley.com/share/author/HWGGRIBPVEKBW3NDRDM5?target=10.1112/blms.12513)
 1. A prime analogue Erdős-Pomerance result for Drinfeld modules with arbitrary endomorphism rings, with Wentang Kuo. *Proc. Amer. Math. Soc.*  **148** (2020), no. 9, 3733--3747. [Journal website](https://www.ams.org/journals/proc/2020-148-09/S0002-9939-2020-15002-2/). [Article link](proc15002.pdf).
 2. Primitive submodules for Drinfeld modules, with Wentang Kuo. ©Cambridge Philosophical Society (2015). *Math. Proc. Cambridge Philos. Soc.* **159**(2015), no. 2, 275--302. [Journal website](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/primitive-submodules-for-drinfeld-modules/33B46C6395C23CCF5553E3EE7B9B2354). [Article link](primitive-submodules-for-drinfeld-modules.pdf).
 3. The Lang-Trotter conjecture for Drinfeld modules. Ph.D. thesis. University of Waterloo, (2011). [Link to thesis](Tweedle_David_phd_thesis.pdf).

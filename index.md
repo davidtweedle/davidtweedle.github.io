@@ -15,7 +15,7 @@ My research area is number theory.
 More specifically, I like to think about Artin's primitive root conjecture and related topics as well as number theory of function fields.
 
 ## Facts ##
-- I am married and have one child.
+- I am married and have two children.
 - I have a sibling: [Jesse Tweedle](https://github.com/tweed1e)
 
 ## Hobbies ##

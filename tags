@@ -1,6 +1,8 @@
 !_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
 !_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
 !_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
 !_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
@@ -99,6 +101,7 @@
 .site-footer	_site/assets/main.css	/^.site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }$/;"	c
 .site-header	_site/assets/main.css	/^.site-header { border-top: 1px solid #424242; }$/;"	c
 .site-header	_site/assets/main.css	/^.site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.9/;"	c
+.site-header	assets/main.scss	/^.site-header {$/;"	c
 .site-nav	_site/assets/main.css	/^.site-nav { float: right; line-height: 54px; }$/;"	c
 .site-nav	_site/assets/main.css	/^@media screen and (max-width: 600px) { .site-nav { position: absolute; top: 9px; right: 15px; ba/;"	c
 .site-nav .menu-icon	_site/assets/main.css	/^  .site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0/;"	c
@@ -109,8 +112,8 @@
 .site-nav .page-link	_site/assets/main.css	/^.site-nav .page-link { color: #111; line-height: 1.5; }$/;"	c
 .site-nav .page-link:not(:last-child)	_site/assets/main.css	/^  .site-nav .page-link:not(:last-child) { margin-right: 0; } }$/;"	c
 .site-nav .page-link:not(:last-child)	_site/assets/main.css	/^.site-nav .page-link:not(:last-child) { margin-right: 20px; }$/;"	c
-.site-nav input	_site/assets/main.css	/^  .site-nav input ~ .trigger { clear: both; display: none; }$/;"	s
-.site-nav input:checked	_site/assets/main.css	/^  .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; }$/;"	s
+.site-nav input ~ .trigger	_site/assets/main.css	/^  .site-nav input ~ .trigger { clear: both; display: none; }$/;"	c
+.site-nav input:checked ~ .trigger	_site/assets/main.css	/^  .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; }$/;"	c
 .site-nav label[for="nav-trigger"]	_site/assets/main.css	/^  .site-nav label[for="nav-trigger"] { display: block; float: right; width: 36px; height: 36px; /;"	s
 .site-title	_site/assets/main.css	/^.site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin/;"	c
 .site-title	_site/assets/main.css	/^.site-title, .site-title:visited { color: #424242; }$/;"	c
@@ -120,26 +123,24 @@
 .social-media-list a:hover .username	_site/assets/main.css	/^.social-media-list a:hover .username { text-decoration: underline; }$/;"	c
 .social-media-list li + li	_site/assets/main.css	/^.social-media-list li + li { padding-top: 5px; }$/;"	s
 .svg-icon	_site/assets/main.css	/^.svg-icon { width: 16px; height: 16px; display: inline-block; fill: #828282; padding-right: 5px;/;"	c
-.trigger	_site/assets/main.css	/^  .site-nav input ~ .trigger { clear: both; display: none; }$/;"	c
-.trigger	_site/assets/main.css	/^  .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; }$/;"	c
 .wrapper	_site/assets/main.css	/^.wrapper { max-width: -webkit-calc(800px - (30px * 2)); max-width: calc(800px - (30px * 2)); mar/;"	c
 .wrapper	_site/assets/main.css	/^@media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (30px)); max-w/;"	c
 .wrapper:after	_site/assets/main.css	/^.wrapper:after, .footer-col-wrapper:after { content: ""; display: table; clear: both; }$/;"	c
 Assessment information	_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="assessment-information">Assessment information<\/h3>$/;"	j
 Assessment information	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="assessment-information">Assessment information<\/h3>$/;"	j
 Assessment information	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="assessment-information">Assessment information<\/h3>$/;"	j
-Assessment information	courses/math-2400/math-2400-course-outline.md	/^### Assessment information ###$/;"	S
+Assessment information	courses/math-2400/math-2400-course-outline.md	/^### Assessment information ###$/;"	S	section:permalink: /courses/math-2400/math-2400-course-outline
 Assessment information	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="assessment-information">Assessment information<\/h3>$/;"	j
-Assessment information	courses/math-3273/math-3273-course-outline.md	/^### Assessment information ###$/;"	S
+Assessment information	courses/math-3273/math-3273-course-outline.md	/^### Assessment information ###$/;"	S	section:permalink: /courses/math-3273/math-3273-course-outline
 Calendar	_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="calendar">Calendar<\/h3>$/;"	j
 Calendar	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="calendar">Calendar<\/h3>$/;"	j
 Calendar	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="calendar">Calendar<\/h3>$/;"	j
-Calendar	courses/math-2400/math-2400-course-outline.md	/^### Calendar ###$/;"	S
+Calendar	courses/math-2400/math-2400-course-outline.md	/^### Calendar ###$/;"	S	section:permalink: /courses/math-2400/math-2400-course-outline
 Calendar	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="calendar">Calendar<\/h3>$/;"	j
-Calendar	courses/math-3273/math-3273-course-outline.md	/^### Calendar ###$/;"	S
+Calendar	courses/math-3273/math-3273-course-outline.md	/^### Calendar ###$/;"	S	section:permalink: /courses/math-3273/math-3273-course-outline
 Course information	_site/courses/index.html	/^    <h1 class="post-title">Course information<\/h1>$/;"	h
 Courses I have taught	_site/teaching/index.html	/^    <h3 id="courses-i-have-taught">Courses I have taught<\/h3>$/;"	j
-Courses I have taught	teaching.md	/^### Courses I have taught$/;"	S
+Courses I have taught	teaching.md	/^### Courses I have taught$/;"	S	section:permalink: /teaching/
 David Tweedle&#39;s website	_site/courses/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/index.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
 David Tweedle&#39;s website	_site/courses/math-2400/Math-2400-videos/lecture-1.html	/^    <h2 class="footer-heading">David Tweedle&#39;s website<\/h2>$/;"	i
@@ -175,8 +176,8 @@ Definitions in this video	_site/courses/math-3273/videos/lecture-2.html	/^<h3 id
 Definitions in this video	_site/courses/math-3273/videos/lecture-3.html	/^    <h3 id="definitions-in-this-video">Definitions in this video<\/h3>$/;"	j
 Definitions in this video	courses/math-3273/_site/courses/math-3273/videos/lecture-2.html	/^<h3 id="definitions-in-this-video">Definitions in this video<\/h3>$/;"	j
 Definitions in this video	courses/math-3273/_site/courses/math-3273/videos/lecture-3.html	/^<h3 id="definitions-in-this-video">Definitions in this video<\/h3>$/;"	j
-Definitions in this video	courses/math-3273/lecture-2.md	/^### Definitions in this video ###$/;"	S
-Definitions in this video	courses/math-3273/lecture-3.md	/^### Definitions in this video ###$/;"	S
+Definitions in this video	courses/math-3273/lecture-2.md	/^### Definitions in this video ###$/;"	S	section:permalink: /courses/math-3273/videos/lecture-2
+Definitions in this video	courses/math-3273/lecture-3.md	/^### Definitions in this video ###$/;"	S	section:permalink: /courses/math-3273/videos/lecture-3
 Divisibility (review)	_site/courses/math-2400/divisibility-review.html	/^    <h1 class="post-title p-name" itemprop="name headline">Divisibility (review)<\/h1>$/;"	h
 Facts	_site/index.html	/^<h2 id="facts">Facts<\/h2>$/;"	i
 Facts	index.md	/^## Facts ##$/;"	s
@@ -186,9 +187,9 @@ Home	_site/index.html	/^    <h1 class="post-title">Home<\/h1>$/;"	h
 How to study	_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="how-to-study">How to study<\/h3>$/;"	j
 How to study	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="how-to-study">How to study<\/h3>$/;"	j
 How to study	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="how-to-study">How to study<\/h3>$/;"	j
-How to study	courses/math-2400/math-2400-course-outline.md	/^### How to study ###$/;"	S
+How to study	courses/math-2400/math-2400-course-outline.md	/^### How to study ###$/;"	S	section:permalink: /courses/math-2400/math-2400-course-outline
 How to study	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="how-to-study">How to study<\/h3>$/;"	j
-How to study	courses/math-3273/math-3273-course-outline.md	/^### How to study ###$/;"	S
+How to study	courses/math-3273/math-3273-course-outline.md	/^### How to study ###$/;"	S	section:permalink: /courses/math-3273/math-3273-course-outline
 Lecture 1 - primes and divisibility	_site/courses/math-2400/Math-2400-videos/lecture-1.html	/^    <h1 class="post-title">Lecture 1 - primes and divisibility<\/h1>$/;"	h
 Lecture 10 - Primitive Roots	_site/courses/math-2400/Math-2400-videos/lecture-10.html	/^    <h1 class="post-title">Lecture 10 - Primitive Roots<\/h1>$/;"	h
 Lecture 11 - Legendre Symbols and Gauss&#39; Lemma	_site/courses/math-2400/Math-2400-videos/lecture-11.html	/^    <h1 class="post-title">Lecture 11 - Legendre Symbols and Gauss&#39; Lemma<\/h1>$/;"	h
@@ -217,40 +218,76 @@ Math 3273 - Linear Algebra II	_site/courses/index.html	/^<h2 id="math-3273---lin
 Math 3273 - Linear Algebra II	courses.md	/^## Math 3273 - Linear Algebra II$/;"	s
 Math 3273 course outline	_site/courses/math-3273/math-3273-course-outline.html	/^    <h1 class="post-title">Math 3273 course outline<\/h1>$/;"	h
 Math 3273 videos	_site/courses/math-3273/videos/index.html	/^    <h1 class="post-title">Math 3273 videos<\/h1>$/;"	h
+MathJax-script	_includes/head.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/index.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/Math-2400-videos/index.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/Math-2400-videos/lecture-1.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/Math-2400-videos/lecture-10.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/Math-2400-videos/lecture-11.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/Math-2400-videos/lecture-12.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/Math-2400-videos/lecture-13.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/Math-2400-videos/lecture-2.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/Math-2400-videos/lecture-3.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/Math-2400-videos/lecture-4.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/Math-2400-videos/lecture-5.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/Math-2400-videos/lecture-6.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/Math-2400-videos/lecture-7.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/Math-2400-videos/lecture-8.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/Math-2400-videos/lecture-9.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/divisibility-review.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-2400/math-2400-course-outline.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-3273/math-3273-course-outline.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-3273/videos/index.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-3273/videos/lecture-1.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-3273/videos/lecture-2.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-3273/videos/lecture-3.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-3273/videos/lecture-4.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-3273/videos/lecture-5.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-3273/videos/lecture-6.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-3273/videos/lecture-7.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/courses/math-3273/videos/lecture-8.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/index.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/links/index.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/research/index.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	_site/teaching/index.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
 More information	_site/index.html	/^<h2 id="more-information">More information<\/h2>$/;"	i
 More information	index.md	/^## More information$/;"	s
 Problems	_site/courses/math-3273/videos/lecture-1.html	/^<h3 id="problems">Problems<\/h3>$/;"	j
 Problems	courses/math-3273/_site/courses/math-3273/videos/lecture-1.html	/^<h3 id="problems">Problems<\/h3>$/;"	j
-Problems	courses/math-3273/lecture-1.md	/^### Problems ###$/;"	S
+Problems	courses/math-3273/lecture-1.md	/^### Problems ###$/;"	S	section:permalink: /courses/math-3273/videos/lecture-1
 Publications	_site/research/index.html	/^<h3 id="publications">Publications<\/h3>$/;"	j
-Publications	research.md	/^### Publications$/;"	S
+Publications	research.md	/^### Publications$/;"	S	section:permalink: /research/
 Research	_site/research/index.html	/^    <h1 class="post-title">Research<\/h1>$/;"	h
 Review - Vector spaces and subspaces	_site/courses/math-3273/videos/lecture-1.html	/^    <h1 class="post-title">Review - Vector spaces and subspaces<\/h1>$/;"	h
 Review - matrix subspaces	_site/courses/math-3273/videos/lecture-2.html	/^    <h1 class="post-title">Review - matrix subspaces<\/h1>$/;"	h
 Teaching	_site/teaching/index.html	/^    <h1 class="post-title">Teaching<\/h1>$/;"	h
 The following courses I have only taught once or twice	_site/teaching/index.html	/^<h3 id="the-following-courses-i-have-only-taught-once-or-twice">The following courses I have onl/;"	j
-The following courses I have only taught once or twice	teaching.md	/^### The following courses I have only taught once or twice$/;"	S
+The following courses I have only taught once or twice	teaching.md	/^### The following courses I have only taught once or twice$/;"	S	section:permalink: /teaching/
 What I expect from you	_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="what-i-expect-from-you">What I expect from you<\/h3>$/;"	j
 What I expect from you	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-i-expect-from-you">What I expect from you<\/h3>$/;"	j
 What I expect from you	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="what-i-expect-from-you">What I expect from you<\/h3>$/;"	j
-What I expect from you	courses/math-2400/math-2400-course-outline.md	/^### What I expect from you ###$/;"	S
+What I expect from you	courses/math-2400/math-2400-course-outline.md	/^### What I expect from you ###$/;"	S	section:permalink: /courses/math-2400/math-2400-course-outline
 What I expect from you	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-i-expect-from-you">What I expect from you<\/h3>$/;"	j
-What I expect from you	courses/math-3273/math-3273-course-outline.md	/^### What I expect from you ###$/;"	S
+What I expect from you	courses/math-3273/math-3273-course-outline.md	/^### What I expect from you ###$/;"	S	section:permalink: /courses/math-3273/math-3273-course-outline
 What can you expect from this course	_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="what-can-you-expect-from-this-course">What can you expect from this course<\/h3>$/;"	j
 What can you expect from this course	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-can-you-expect-from-this-course">What can you expect from this course<\/h3>$/;"	j
 What can you expect from this course	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="what-can-you-expect-from-this-course">What can you expect from this course<\/h3>$/;"	j
-What can you expect from this course	courses/math-2400/math-2400-course-outline.md	/^### What can you expect from this course ###$/;"	S
+What can you expect from this course	courses/math-2400/math-2400-course-outline.md	/^### What can you expect from this course ###$/;"	S	section:permalink: /courses/math-2400/math-2400-course-outline
 What can you expect from this course	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-can-you-expect-from-this-course">What can you expect from this course<\/h3>$/;"	j
-What can you expect from this course	courses/math-3273/math-3273-course-outline.md	/^### What can you expect from this course ###$/;"	S
+What can you expect from this course	courses/math-3273/math-3273-course-outline.md	/^### What can you expect from this course ###$/;"	S	section:permalink: /courses/math-3273/math-3273-course-outline
 What is elementary number theory	_site/courses/math-2400/math-2400-course-outline.html	/^    <h3 id="what-is-elementary-number-theory">What is elementary number theory<\/h3>$/;"	j
 What is elementary number theory	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="what-is-elementary-number-theory">What is elementary number theory<\/h3>$/;"	j
-What is elementary number theory	courses/math-2400/math-2400-course-outline.md	/^### What is elementary number theory ###$/;"	S
+What is elementary number theory	courses/math-2400/math-2400-course-outline.md	/^### What is elementary number theory ###$/;"	S	section:permalink: /courses/math-2400/math-2400-course-outline
 What is linear algebra 2	_site/courses/math-3273/math-3273-course-outline.html	/^    <h3 id="what-is-linear-algebra-2">What is linear algebra 2<\/h3>$/;"	j
 What is linear algebra 2	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-is-linear-algebra-2">What is linear algebra 2<\/h3>$/;"	j
-What is linear algebra 2	courses/math-3273/math-3273-course-outline.md	/^### What is linear algebra 2 ###$/;"	S
+What is linear algebra 2	courses/math-3273/math-3273-course-outline.md	/^### What is linear algebra 2 ###$/;"	S	section:permalink: /courses/math-3273/math-3273-course-outline
 a	_site/assets/main.css	/^a { color: #2a7ae2; text-decoration: none; }$/;"	s
 a:hover	_site/assets/main.css	/^a:hover { color: #111; text-decoration: underline; }$/;"	s
 a:visited	_site/assets/main.css	/^a:visited { color: #1756a9; }$/;"	s
+assessment-information	_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="assessment-information">Assessment information<\/h3>$/;"	I
+assessment-information	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="assessment-information">Assessment information<\/h3>$/;"	I
+assessment-information	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="assessment-information">Assessment information<\/h3>$/;"	I
+assessment-information	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="assessment-information">Assessment information<\/h3>$/;"	I
 blockquote	_site/assets/main.css	/^blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px/;"	s
 blockquote	_site/assets/main.css	/^body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; paddin/;"	s
 blockquote	_site/assets/main.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px/;"	s
@@ -259,13 +296,23 @@ blockquote em	_site/assets/main.css	/^blockquote i, blockquote em { font-style: 
 blockquote i	_site/assets/main.css	/^blockquote i, blockquote em { font-style: normal; }$/;"	s
 body	_site/assets/main.css	/^body { font: 400 16px\/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Ari/;"	s
 body	_site/assets/main.css	/^body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; paddin/;"	s
+calendar	_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="calendar">Calendar<\/h3>$/;"	I
+calendar	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="calendar">Calendar<\/h3>$/;"	I
+calendar	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="calendar">Calendar<\/h3>$/;"	I
+calendar	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="calendar">Calendar<\/h3>$/;"	I
 code	_site/assets/main.css	/^code { padding: 1px 5px; }$/;"	s
 code	_site/assets/main.css	/^pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #e/;"	s
+courses-i-have-taught	_site/teaching/index.html	/^    <h3 id="courses-i-have-taught">Courses I have taught<\/h3>$/;"	I
 dd	_site/assets/main.css	/^body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; paddin/;"	s
+definitions-in-this-video	_site/courses/math-3273/videos/lecture-2.html	/^<h3 id="definitions-in-this-video">Definitions in this video<\/h3>$/;"	I
+definitions-in-this-video	_site/courses/math-3273/videos/lecture-3.html	/^    <h3 id="definitions-in-this-video">Definitions in this video<\/h3>$/;"	I
+definitions-in-this-video	courses/math-3273/_site/courses/math-3273/videos/lecture-2.html	/^<h3 id="definitions-in-this-video">Definitions in this video<\/h3>$/;"	I
+definitions-in-this-video	courses/math-3273/_site/courses/math-3273/videos/lecture-3.html	/^<h3 id="definitions-in-this-video">Definitions in this video<\/h3>$/;"	I
 dl	_site/assets/main.css	/^body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; paddin/;"	s
 dl	_site/assets/main.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px/;"	s
 dribbble	_site/assets/minima-social-icons.svg	/^<symbol id="dribbble" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-mit/;"	i
 facebook	_site/assets/minima-social-icons.svg	/^<symbol id="facebook" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-mit/;"	i
+facts	_site/index.html	/^<h2 id="facts">Facts<\/h2>$/;"	I
 figcaption	_site/assets/main.css	/^figcaption { font-size: 14px; }$/;"	s
 figure	_site/assets/main.css	/^body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; paddin/;"	s
 figure	_site/assets/main.css	/^figure { border: 0.5px solid #424242; margin: 0.5em; padding: 0.5em; float: right; }$/;"	s
@@ -292,6 +339,11 @@ h5	_site/assets/main.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, d
 h6	_site/assets/main.css	/^body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; paddin/;"	s
 h6	_site/assets/main.css	/^h1, h2, h3, h4, h5, h6 { font-weight: 400; }$/;"	s
 h6	_site/assets/main.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px/;"	s
+hobbies	_site/index.html	/^<h2 id="hobbies">Hobbies<\/h2>$/;"	I
+how-to-study	_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="how-to-study">How to study<\/h3>$/;"	I
+how-to-study	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="how-to-study">How to study<\/h3>$/;"	I
+how-to-study	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="how-to-study">How to study<\/h3>$/;"	I
+how-to-study	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="how-to-study">How to study<\/h3>$/;"	I
 hr	_site/assets/main.css	/^body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; paddin/;"	s
 img	_site/assets/main.css	/^img { max-width: 100%; vertical-align: middle; }$/;"	s
 instagram	_site/assets/minima-social-icons.svg	/^<symbol id="instagram" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-mi/;"	i
@@ -300,6 +352,43 @@ li > ul	_site/assets/main.css	/^li > ul, li > ol { margin-bottom: 0; }$/;"	s
 linkedin	_site/assets/minima-social-icons.svg	/^<symbol id="linkedin" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-mit/;"	i
 main	_site/assets/main.css	/^main { display: block; \/* Default value of `display` of `main` element is 'inline' in IE 11. *\//;"	s
 mastodon	_site/assets/minima-social-icons.svg	/^<symbol id="mastodon" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-mit/;"	i
+math-2400---elementary-number-theory	_site/courses/index.html	/^<h2 id="math-2400---elementary-number-theory">Math 2400 - Elementary Number Theory<\/h2>$/;"	I
+math-3273---linear-algebra-ii	_site/courses/index.html	/^<h2 id="math-3273---linear-algebra-ii">Math 3273 - Linear Algebra II<\/h2>$/;"	I
+more-information	_site/index.html	/^<h2 id="more-information">More information<\/h2>$/;"	I
+nav-trigger	_site/courses/index.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/Math-2400-videos/index.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/Math-2400-videos/lecture-1.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/Math-2400-videos/lecture-10.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/Math-2400-videos/lecture-11.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/Math-2400-videos/lecture-12.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/Math-2400-videos/lecture-13.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/Math-2400-videos/lecture-2.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/Math-2400-videos/lecture-3.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/Math-2400-videos/lecture-4.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/Math-2400-videos/lecture-5.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/Math-2400-videos/lecture-6.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/Math-2400-videos/lecture-7.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/Math-2400-videos/lecture-8.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/Math-2400-videos/lecture-9.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/divisibility-review.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-2400/math-2400-course-outline.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-3273/math-3273-course-outline.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-3273/videos/index.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-3273/videos/lecture-1.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-3273/videos/lecture-2.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-3273/videos/lecture-3.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-3273/videos/lecture-4.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-3273/videos/lecture-5.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-3273/videos/lecture-6.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-3273/videos/lecture-7.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/courses/math-3273/videos/lecture-8.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/index.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/links/index.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/research/index.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nav-trigger	_site/teaching/index.html	/^        <input type="checkbox" id="nav-trigger" class="nav-trigger" \/>$/;"	I
+nsa17ebafb0101	_site/feed.xml	/^<?xml version="1.0" encoding="utf-8"?><feed xmlns="http:\/\/www.w3.org\/2005\/Atom" ><generator /;"	n	uri:http://www.w3.org/2005/Atom
+nsa4c981f40101	_site/assets/minima-social-icons.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink">$/;"	n	uri:http://www.w3.org/2000/svg
+nsa4c981f40201	_site/assets/minima-social-icons.svg	/^<symbol id="stackoverflow" class="svg-icon" xmlns="http:\/\/www.w3.org\/2000\/svg" fill-rule="ev/;"	n	uri:http://www.w3.org/2000/svg
 ol	_site/assets/main.css	/^body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; paddin/;"	s
 ol	_site/assets/main.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px/;"	s
 ol	_site/assets/main.css	/^ul, ol { margin-left: 30px; }$/;"	s
@@ -341,6 +430,9 @@ pre	_site/assets/main.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, 
 pre	_site/assets/main.css	/^pre { padding: 8px 12px; overflow-x: auto; }$/;"	s
 pre	_site/assets/main.css	/^pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #e/;"	s
 pre > code	_site/assets/main.css	/^pre > code { border: 0; padding-right: 0; padding-left: 0; }$/;"	s
+problems	_site/courses/math-3273/videos/lecture-1.html	/^<h3 id="problems">Problems<\/h3>$/;"	I
+problems	courses/math-3273/_site/courses/math-3273/videos/lecture-1.html	/^<h3 id="problems">Problems<\/h3>$/;"	I
+publications	_site/research/index.html	/^<h3 id="publications">Publications<\/h3>$/;"	I
 rss	_site/assets/minima-social-icons.svg	/^<symbol id="rss" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlim/;"	i
 stackoverflow	_site/assets/minima-social-icons.svg	/^<symbol id="stackoverflow" class="svg-icon" xmlns="http:\/\/www.w3.org\/2000\/svg" fill-rule="ev/;"	i
 table	_site/assets/main.css	/^table { margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; border-collapse: col/;"	s
@@ -349,11 +441,25 @@ table td	_site/assets/main.css	/^table th, table td { padding: 10px 15px; }$/;"	
 table th	_site/assets/main.css	/^table th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }$/;"	s
 table th	_site/assets/main.css	/^table th, table td { padding: 10px 15px; }$/;"	s
 table tr:nth-child(even)	_site/assets/main.css	/^table tr:nth-child(even) { background-color: #f7f7f7; }$/;"	s
+the-following-courses-i-have-only-taught-once-or-twice	_site/teaching/index.html	/^<h3 id="the-following-courses-i-have-only-taught-once-or-twice">The following courses I have onl/;"	I
 topic: topic goes here	courses/math-2400/divisibility-review.md	/^topic: topic goes here$/;"	s
 twitter	_site/assets/minima-social-icons.svg	/^<symbol id="twitter" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-mite/;"	i
 ul	_site/assets/main.css	/^body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; paddin/;"	s
 ul	_site/assets/main.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px/;"	s
 ul	_site/assets/main.css	/^ul, ol { margin-left: 30px; }$/;"	s
+what-can-you-expect-from-this-course	_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="what-can-you-expect-from-this-course">What can you expect from this course<\/h3>$/;"	I
+what-can-you-expect-from-this-course	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-can-you-expect-from-this-course">What can you expect from this course<\/h3>$/;"	I
+what-can-you-expect-from-this-course	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="what-can-you-expect-from-this-course">What can you expect from this course<\/h3>$/;"	I
+what-can-you-expect-from-this-course	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-can-you-expect-from-this-course">What can you expect from this course<\/h3>$/;"	I
+what-i-expect-from-you	_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="what-i-expect-from-you">What I expect from you<\/h3>$/;"	I
+what-i-expect-from-you	_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-i-expect-from-you">What I expect from you<\/h3>$/;"	I
+what-i-expect-from-you	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="what-i-expect-from-you">What I expect from you<\/h3>$/;"	I
+what-i-expect-from-you	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-i-expect-from-you">What I expect from you<\/h3>$/;"	I
+what-is-elementary-number-theory	_site/courses/math-2400/math-2400-course-outline.html	/^    <h3 id="what-is-elementary-number-theory">What is elementary number theory<\/h3>$/;"	I
+what-is-elementary-number-theory	courses/math-2400/_site/courses/math-2400/math-2400-course-outline.html	/^<h3 id="what-is-elementary-number-theory">What is elementary number theory<\/h3>$/;"	I
+what-is-linear-algebra-2	_site/courses/math-3273/math-3273-course-outline.html	/^    <h3 id="what-is-linear-algebra-2">What is linear algebra 2<\/h3>$/;"	I
+what-is-linear-algebra-2	courses/math-3273/_site/courses/math-3273/math-3273-course-outline.html	/^<h3 id="what-is-linear-algebra-2">What is linear algebra 2<\/h3>$/;"	I
+xlink	_site/assets/minima-social-icons.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink">$/;"	n	uri:http://www.w3.org/1999/xlink
 youtube	_site/assets/minima-social-icons.svg	/^<symbol id="youtube" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-mite/;"	i
 {{ page.list_title | default: "Posts" }}	_layouts/blog.html	/^    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}<\/h2>$/;"	i
 {{ page.list_title | default: "Posts" }}	_layouts/course.html	/^    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}<\/h2>$/;"	i

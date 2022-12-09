@@ -32,7 +32,7 @@ gem "kramdown-parser-gfm"
 gem "webrick"
 
 # for security reasons, I guess?
-gem "nokogiri", ">= 1.13.6"
+gem "nokogiri", ">= 1.13.10"
 gem "commonmarker", ">=0.23.4"
 gem "rexml", ">= 3.2.5"
 gem "addressable", ">=2.8.0"
